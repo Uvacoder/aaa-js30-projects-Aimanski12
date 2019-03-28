@@ -1,0 +1,12 @@
+.buckconfig
+.flowconfig
+.gitattributes
+.watchmanconfig
+__tests__/
+android/
+assets/
+babel.config.js
+ios/
+metro.config.js
+package-lock.json
+.idea/
