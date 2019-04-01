@@ -1,8 +1,6 @@
 # Exploring React Native Navigation
 
-> I built this simple app to explore `React Native Navigation` functions, to understand how to switch from one tab to another, and how to create bottom navigation tabs and navigator stack. 
-<br>
-> Things I learned;
+> I built this simple app to explore `React Native Navigation` functions, to understand how to switch from one tab to another, and how to create bottom navigation tabs and navigator stack. Things I learned in this project;
   * How to use `React Native Navigation` library.
   * How to switch navigations and add navigation headers.
   * How to pass state and props from one navigation stack to another.
