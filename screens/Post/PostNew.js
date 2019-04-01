@@ -18,16 +18,6 @@ class MyProfile extends Component {
     return (
   <Container>
     <ImageBackground source={imgBackground} style={{width: "100%", height: "100%"}}>
-       {/* <Header>
-          <Left>
-            <Icon 
-              name="ios-menu" 
-              onPress={() => this.props.navigation.openDrawer()} />
-          </Left>
-          <Body>
-            <Title>{this.props.title}</Title>
-          </Body>
-        </Header> */}
       <Content >
           <Card  style={styles.bkg}>
             <CardItem>

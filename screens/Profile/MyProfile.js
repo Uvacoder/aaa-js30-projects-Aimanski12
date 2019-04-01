@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import {Image, StyleSheet, View, ImageBackground} from 'react-native'
 // import { List, ListItem, Left, Body, Text }  from 'native-base'
 import {Icon, Body, Button, Title, Container, Header, Content, Left, Text} from 'native-base'
-import img from '../../assets/img/myProfile.jpeg'
+import img from '../../assets/img/myProfile.png'
 import imgBackground from '../../assets/img/profileBackground.png'
 
 
@@ -39,7 +39,7 @@ class MyProfile extends Component {
             <Image source={img} style={styles.image}/>
           </View>
           <View>
-           <Text>Hi! My Name is John Smith.</Text>
+           <Text>Hi! My Name is Aimanski12.</Text>
          </View>
          <View style={styles.textWrapper}>
            <Text style={styles.textHeader}>Profile</Text>
