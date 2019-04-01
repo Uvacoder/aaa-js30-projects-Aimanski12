@@ -30,7 +30,7 @@ This is a full [React Native](https://facebook.github.io/react-native/) project 
 <a href="https://user-images.githubusercontent.com/32781697/55290400-856a9580-5398-11e9-8ebb-785659c2813f.png"><img src="https://user-images.githubusercontent.com/32781697/55290400-856a9580-5398-11e9-8ebb-785659c2813f.png" title="Project Clip"/></a>
 </div>
 
-[View project source code and more](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj02).
+[View project source code and more](https://github.com/Aimanski12/react-native-p03).
 
 </details>
 
