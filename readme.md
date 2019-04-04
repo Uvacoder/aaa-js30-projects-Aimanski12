@@ -7,6 +7,20 @@ Hello and welcome to the Github repo of my React Native Projects. This houses al
 The projects are listed from the latest.
 
 <details>
+<summary><strong>03. Animations of React Native</strong></summary>
+
+### Overview
+This challenge deepens my understanding of `Navigation` functions of [React Native Navigation](https://reactnavigation.org/) version 3.x. Creating tabs using `creareStackNavigator`, `createSwitchNavigator`, `createBottomTabNavigator`, `createAppContainer`, and `createDrawerNavigator` are some of the few things I was exploring in this project.  
+
+<div float="left">
+<a href="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif"><img src="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif" title="Project Clip"/></a>
+</div>
+
+[View project source code and more](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj02).
+  
+</details>
+
+<details>
 <summary><strong>02. Exploring React Native Navigation</strong></summary>
 
 ### Overview
