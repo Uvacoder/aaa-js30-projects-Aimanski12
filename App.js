@@ -2,12 +2,12 @@
 
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
-import {createAppContainer, createSwitchNavigator} from 'react-navigation'
+import {createAppContainer, createSwitchNavigator, createStackNavigator} from 'react-navigation'
 
 import Main from './screens/Main/Main'
 import IndividualList from './screens/IndivualLists/IndividualList'
 
-const AppStack = createSwitchNavigator({
+const AppStack = createStackNavigator({
   Main: Main,
   IndividualList: IndividualList
 })
