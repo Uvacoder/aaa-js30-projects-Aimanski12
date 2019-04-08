@@ -1,5 +1,4 @@
 
-
 import React from 'react'
 import {
     createBottomTabNavigator, 
@@ -37,8 +36,6 @@ const ProfileStack = createBottomTabNavigator({
   }
 }, {
   navigationOptions: ({navigation}) => {
-    // get the route name and set it to the header
-    // console.log(navigation)
     const {routeName} = navigation.state.routes[navigation.state.index];
     return {
       headerTitle: routeName

@@ -1,19 +1,15 @@
 import React, {Component} from 'react'
-import {StyleSheet, ScrollView, Image} from 'react-native'
+import {StyleSheet, Image} from 'react-native'
 import Main from './screens/Main/Main'
 import Profile from './screens/Profile/Profile'
 import Post from './screens/Post/Post'
 
-// import MyProfile from './screens/Profile/MyProfile'
-// import NewPost from './screens/Post/PostNew'
-
 import {createDrawerNavigator, createSwitchNavigator, createAppContainer} from 'react-navigation'
 import img from './assets/img/myProfile.jpeg'
 
-import {DrawerItems, SafeAreaView} from 'react-navigation'
-import {Container, Header, Body, Content, Text} from 'native-base'
+import {DrawerItems} from 'react-navigation'
+import {Container, Header, Body, Content} from 'native-base'
 
-// import CustomDrawer from './screens/DrawerProfile/DrawerProfile'
 
 class App extends Component {
   render(){
@@ -23,17 +19,10 @@ class App extends Component {
   }
 }
 
-
-
-
-
 const CustomDrawerContentComponent = (props) => (
-  //make sure to use the react-native Image 
-  // so that you can render the Image
   <Container>
     <Header style={styles.drawerHeader}>
       <Body>
-        {/* <Text>safd</Text> */}
         <Image
           style={styles.drawerImage}
           source={img} />
@@ -48,8 +37,6 @@ const CustomDrawerContentComponent = (props) => (
 const AppDrawers = createDrawerNavigator({
   Profile: {screen: Profile},
   Post: {screen: Post}
-  // Profile: {screen: MyProfile},
-  // Post: {screen: NewPost}
 },{
   drawerPosition: 'left',
   initialRouteName: 'Profile',

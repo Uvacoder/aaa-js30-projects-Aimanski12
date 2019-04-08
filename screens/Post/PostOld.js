@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import {Image, StyleSheet, View, ImageBackground} from 'react-native'
-import { Container, Header, Content, List, ListItem, Left, Body, Right, Thumbnail, Text, Button } from 'native-base';
+import {StyleSheet, ImageBackground} from 'react-native'
+import { Container, Content, List, ListItem, Left, Body, Right, Thumbnail, Text, Button } from 'native-base';
 import imgBackground from '../../assets/img/messages.jpg'
 import one from '../../assets/img/01.jpg'
 import two from '../../assets/img/02.jpg'
@@ -21,9 +21,7 @@ class MyProfile extends Component {
        <Content>
           <List>
             <ListItem thumbnail>
-              <Left>
-                <Thumbnail square source={one} />
-              </Left>
+              <Left><Thumbnail square source={one} /></Left>
               <Body>
                 <Text>Batman</Text>
                 <Text note numberOfLines={1} style={styles.text}>Where are you now . . </Text>
@@ -94,9 +92,7 @@ class MyProfile extends Component {
         </Content>
     </ImageBackground>
   </Container>
-     
-    )
-  }
+  )}
 }
 
 const styles = StyleSheet.create({

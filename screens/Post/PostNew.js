@@ -1,10 +1,9 @@
 import React, { Component } from 'react'
-import {Image, StyleSheet, View, ImageBackground} from 'react-native'
-import { Container, Header, Content, Card, CardItem, Thumbnail, Text, Button, Icon, Left, Body, Title } from 'native-base';
+import {Image, StyleSheet, ImageBackground} from 'react-native'
+import { Container, Content, Card, CardItem, Text, Button, Icon, Left, Body, } from 'native-base';
 import imgBackground from '../../assets/img/messages.jpg'
 import trees from '../../assets/img/trees.jpg'
 import mountain from '../../assets/img/mountain.jpg'
-
 
 class MyProfile extends Component {
 
@@ -71,9 +70,7 @@ class MyProfile extends Component {
 
     </ImageBackground>
   </Container>
-     
-    )
-  }
+  )}
 }
 
 const styles = StyleSheet.create({

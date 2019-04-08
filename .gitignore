@@ -10,3 +10,4 @@ ios/
 metro.config.js
 package-lock.json
 .idea/
+.gitignore
