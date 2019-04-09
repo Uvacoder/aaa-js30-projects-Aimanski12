@@ -13,9 +13,9 @@ The projects are listed from the latest.
 This challenge deepens my understanding of `Navigation` functions of [React Native Navigation](https://reactnavigation.org/) version 3.x. Creating tabs using `creareStackNavigator`, `createSwitchNavigator`, `createBottomTabNavigator`, `createAppContainer`, and `createDrawerNavigator` are some of the few things I was exploring in this project.  
 
 <div float="left">
-<a href="https://user-images.githubusercontent.com/32781697/55841991-3e4a7600-5af7-11e9-9255-8d8d6b45788b.gif"><img src="https://user-images.githubusercontent.com/32781697/55841991-3e4a7600-5af7-11e9-9255-8d8d6b45788b.gif" title="Project Clip" style="width:200px;"/></a>
-<a href="https://user-images.githubusercontent.com/32781697/55841991-3e4a7600-5af7-11e9-9255-8d8d6b45788b.gif"><img src="https://user-images.githubusercontent.com/32781697/55841991-3e4a7600-5af7-11e9-9255-8d8d6b45788b.gif" title="Project Clip" style="width:200px;"/></a>
-<a href="https://user-images.githubusercontent.com/32781697/55841991-3e4a7600-5af7-11e9-9255-8d8d6b45788b.gif"><img src="https://user-images.githubusercontent.com/32781697/55841991-3e4a7600-5af7-11e9-9255-8d8d6b45788b.gif" title="Project Clip" style="width:200px;"/></a>
+<a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
 </div>
 
 [View project source code and more](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj02).
