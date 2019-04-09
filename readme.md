@@ -14,7 +14,7 @@ This challenge deepens my understanding of `Navigation` functions of [React Nati
 
 <div float="left">
 <a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
-<a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/55842293-74d4c080-5af8-11e9-85e7-b0396796a4ed.gif"><img src="https://user-images.githubusercontent.com/32781697/55842293-74d4c080-5af8-11e9-85e7-b0396796a4ed.gif" title="Project Clip" /></a>
 <a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
 </div>
 
