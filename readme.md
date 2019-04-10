@@ -12,7 +12,7 @@ The projects are listed from the latest.
 ### Overview :sunglasses:
 I was playing with `React Native Animation` library for this project and I learned a lot from it. In this project I learned configure animation using `Animate.timing()` and how to compose animation methods. I also explored how to combine animations values and how to modify the segments of the animation using `interpolate()` and use it to built in methods like `transform`, `translate`, `scale`.
 
-[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj02).
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj03).
 
 <div float="left">
 <a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
