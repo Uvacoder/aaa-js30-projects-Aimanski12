@@ -1,5 +1,3 @@
-
-
 const initialState = {
   todos: []
 }
@@ -14,7 +12,7 @@ const lists = (state = initialState, action) => {
       }
     case 'DELETE_MAIN_LIST':
       const todo = state.todos.filter(todo => {
-        return todo.todoId !== action.id
+        return todo.key !== action.id
       })
       return{
         ...state,
@@ -22,7 +20,7 @@ const lists = (state = initialState, action) => {
       }
     case 'ADD_TO_LIST_ITEM':
       let newList = state.todos.map(todo => {
-        return todo.todoId === action.id ? {
+        return todo.key === action.id ? {
           ...todo,
           todoLists: todo.todoLists.concat(action.payload)
         } :  todo
@@ -33,10 +31,10 @@ const lists = (state = initialState, action) => {
       }
     case 'DELETE_TODO_LIST': 
       let lists = state.todos.map(todo => {
-        return todo.todoId === action.todoId ? {
+        return todo.key === action.todoId ? {
           ...todo,
           todoLists: todo.todoLists.filter(todoList => {
-            return todoList.listId !== action.listId
+            return todoList.key !== action.listId
           })
         } : todo
       })
@@ -47,15 +45,23 @@ const lists = (state = initialState, action) => {
 
     case 'LIST_IS_DONE':
       let list = state.todos.map(todo => {
-        return todo.todoId === action.todoId ? {
-          ...todo,
-          todoLists: todo.todoLists.map(todoList => {
-            return todoList.listId === action.listId ? {
-              ...todoList,
-              isDone: !todoList.isDone
-            } : todoList
-          })
-        } : todo
+        if(action.indicator === 'ListOfTodos'){
+          return todo.key === action.mainId ? {
+            ...todo,
+            isDone: !todo.isDone
+          } : todo
+        } else {
+          return todo.key === action.mainId ? {
+            ...todo,
+            todoLists: todo.todoLists.map(todoList => {
+              return todoList.key === action.todoId ? {
+                ...todoList,
+                isDone: !todoList.isDone
+              } : todoList
+            })
+          } : todo
+
+        }
       })
       return {
         ...state,

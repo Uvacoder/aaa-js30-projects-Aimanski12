@@ -1,36 +1,15 @@
 
 
-import React, {Component} from 'react';
-import {Platform, StyleSheet, Text, View} from 'react-native';
-import {createAppContainer, createSwitchNavigator, createStackNavigator} from 'react-navigation'
+import {createAppContainer, createStackNavigator} from 'react-navigation'
 
-import Main from './screens/Main/Main'
-import IndividualList from './screens/IndivualLists/IndividualList'
+import ListsOfTodos from './screens/ListsOfTodos/ListsOfTodos'
+import TodoLists from './screens/TodoLists/TodoLists'
 
 const AppStack = createStackNavigator({
-  Main: Main,
-  IndividualList: IndividualList
+  ListOfTodos: ListsOfTodos,
+  TodoLists: TodoLists
 })
 
 const AppContainer = createAppContainer(AppStack)
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
 
 export default AppContainer

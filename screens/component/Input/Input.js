@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import {View, StyleSheet} from 'react-native'
-import {Item, Input, Icon} from 'native-base'
+import {View, StyleSheet, TouchableOpacity} from 'react-native'
+import {Item, Input, Icon, Text} from 'native-base'
 import {connect} from 'react-redux'
 
-import {addToMainList} from '../../../store/actions/index'
+import {addToMainList, addToListItem} from '../../../store/actions/index'
 
 
 class InputText extends Component {
@@ -14,10 +14,15 @@ class InputText extends Component {
 
   addList = () => {
     const todo = {
-      todoId: Math.random(),
-      todoName: this.state.itemVal
+      key: Math.random().toString(),
+      todoName: this.state.itemVal,
+      isDone: false
     }
-    this.props.addToMainList(todo)
+    if(this.props.indicator === 'ListOfTodos'){
+      this.props.addToMainList(todo)
+    } else {
+      this.props.addToLists(this.props.todoId, todo)
+    }
     this.setState({ itemVal: '' })
   }
 
@@ -31,11 +36,14 @@ render() {
           style={styles.input}
           onChangeText={(val)=>this.setState({itemVal: val})}
           value={this.state.itemVal}/>
-        <Icon 
-          active 
-          name='md-add' 
-          style={styles.icon}
-          onPress={this.addList}/>
+        <TouchableOpacity
+          onPress={this.addList} >
+          <Icon 
+            active 
+            name='md-add' 
+            style={styles.icon}
+            />
+        </TouchableOpacity>
       </Item>
     </View>
     )
@@ -50,24 +58,26 @@ const styles = StyleSheet.create({
     borderLeftWidth: 1,
     borderRightWidth: 1,
     borderBottomWidth: 1,
-    borderColor: '#353fbf',
+    borderColor: '#250632',
     borderRadius: 5,
     textDecorationLine: 'none'
   },
   input: {
     paddingLeft: 18,
-    color: '#353fbf'
+    color: '#250632',
+    textDecorationLine: 'none'
   },
   icon: {
     paddingRight: 18,
-    color:  '#353fbf'
-  },
+    color:  '#250632'
+  }
 })
 
 
 const mapDispatchToProps = (dispatch, ownProps) => {
   return {
-    addToMainList: (list) => { dispatch(addToMainList(list)) }
+    addToMainList: (todo) => { dispatch(addToMainList(todo)) },
+    addToLists: (todoId, list) => {dispatch(addToListItem(todoId, list))}
   }
 }
 

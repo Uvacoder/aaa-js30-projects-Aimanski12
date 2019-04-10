@@ -16,7 +16,7 @@ export const deleteMainList = (id) => {
   }
 }
 
-export const addToListItem = (listItem, id) => {
+export const addToListItem = (id, listItem) => {
   return {
     type: 'ADD_TO_LIST_ITEM',
     payload: listItem,
@@ -24,18 +24,19 @@ export const addToListItem = (listItem, id) => {
   }
 }
 
-export const deleteTodoList = (todoId, listId) => {
+export const deleteTodoList = (listId, todoId) => {
   return {
     type: 'DELETE_TODO_LIST',
-    todoId,
-    listId
+    listId,
+    todoId
   }
 }
 
-export const isDone = (todoId, listId) => {
+export const isDone = (indicator, mainId, todoId) => {
   return {
     type: 'LIST_IS_DONE',
-    todoId, 
-    listId
+    indicator: indicator,
+    mainId: mainId,
+    todoId: todoId
   }
 }

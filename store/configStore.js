@@ -1,5 +1,4 @@
 import {createStore, compose, applyMiddleware} from 'redux'
-
 import lists from './reducers/lists'
 
 let composeEnhancers = compose;
