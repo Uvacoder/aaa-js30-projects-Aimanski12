@@ -36,7 +36,7 @@ Your :star: are also greatly appreciated.
 
 ## Author
 
-[Aimanski](https://github.com/Aimanski12)
+[Aimanski](https://github.com/Aimanski12).
 
 ## License 
 
