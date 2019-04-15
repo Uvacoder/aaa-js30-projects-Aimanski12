@@ -1,72 +1,58 @@
-## My React Native Projects
+# Maps of React Native
 
-Hello and welcome to the Github repo of my React Native Projects. This houses all the React Native projects I created as well as the source codes of each project. Each project is branched from this master file. You can click on the branch tab to view all the listed projects or you can scroll from this page to view the rest of the projects. 
-
-## Table of Contents
-
-The projects are listed from the latest.
-
-<details>
-<summary><strong>04. Maps of React Native </strong></summary>
-
-### Overview :sunglasses:
-
-Coming Soon..!
-
-</details>
-
-<details>
-<summary><strong>03. Animations of React Native</strong></summary>
-
-### Overview :sunglasses:
-I was playing with `React Native Animation` library for this project and I learned a lot from it. In this project I learned configure animation using `Animate.timing()` and how to compose animation methods. I also explored how to combine animations values and how to modify the segments of the animation using `interpolate()` and use it to built in methods like `transform`, `translate`, `scale`.
-
-[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj03).
+> This is an app project that explores [React Native Map](https://github.com/react-native-community/react-native-maps) libraries. 
 
 <div float="left">
-<a href="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif"><img src="https://user-images.githubusercontent.com/32781697/55842214-1d365500-5af8-11e9-89a9-c422e9357ecb.gif" title="Project Clip" /></a>
-<a href="https://user-images.githubusercontent.com/32781697/55842293-74d4c080-5af8-11e9-85e7-b0396796a4ed.gif"><img src="https://user-images.githubusercontent.com/32781697/55842293-74d4c080-5af8-11e9-85e7-b0396796a4ed.gif" title="Project Clip" /></a>
-<a href="https://user-images.githubusercontent.com/32781697/55842329-a3529b80-5af8-11e9-9dca-5216d1483db4.gif"><img src="https://user-images.githubusercontent.com/32781697/55842329-a3529b80-5af8-11e9-9dca-5216d1483db4.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/56159806-31ac9e80-5f8b-11e9-9364-ebbab786a849.gif"><img src="https://user-images.githubusercontent.com/32781697/56159806-31ac9e80-5f8b-11e9-9364-ebbab786a849.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/56159821-3f622400-5f8b-11e9-8651-d3596e9cf294.gif"><img src="https://user-images.githubusercontent.com/32781697/56159821-3f622400-5f8b-11e9-8651-d3596e9cf294.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/56159840-4ab54f80-5f8b-11e9-81ce-095fbb2d0577.gif"><img src="https://user-images.githubusercontent.com/32781697/56159840-4ab54f80-5f8b-11e9-81ce-095fbb2d0577.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/56159853-56a11180-5f8b-11e9-9fa4-fba0aeb036b1.gif"><img src="https://user-images.githubusercontent.com/32781697/56159853-56a11180-5f8b-11e9-9fa4-fba0aeb036b1.gif" title="Project Clip" /></a>
 </div>
 
-</details>
+> Things I learned in this project;
+  * How to set up React Native Maps in my code stack.
+  * How to create a MapView Components and what properties needed to render this component.
+  * How to add Marker references inside the MapView.
+  * How to animate the Markers when the reference location changes. 
+  * How to generate routes when two Markers are create in the MapView and generate Polylines in the routes.
+  * How to create Polygons inside the map.
+  * How to query data routes from Google Map.
 
-<details>
-<summary><strong>02. Exploring React Native Navigation</strong></summary>
+> Libraries Used:
+  * [React Native Maps](https://github.com/react-native-community/react-native-maps)
+  * [Polyline](https://www.npmjs.com/package/polyline). A geocode decoder.
+  * [Axios](https://www.npmjs.com/package/axios). Promise based HTTP client for the browser and node.js
+  * [React Native Navigation](). Navigation library for React Native
 
-### Overview :sunglasses:
-This challenge deepens my understanding of `Navigation` functions of [React Native Navigation](https://reactnavigation.org/) version 3.x. Creating tabs using `creareStackNavigator`, `createSwitchNavigator`, `createBottomTabNavigator`, `createAppContainer`, and `createDrawerNavigator` are some of the few things I was exploring in this project.  
 
-[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj02).
+## Installation
 
-<div float="left">
-<a href="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif"><img src="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif" title="Project Clip"/></a>
-</div>
+Create a new application with
+```bash
+$ react-native init project-name
+```
 
-  
-</details>
+cd to your project-name and install the following external libraries in your project;
 
-<details>
-<summary><strong>01. Photo Sharing App @ Udemy</strong></summary>
+```bash
+$ npm install polyline
+$ npm install axios
+$ npm install react-native-maps
+$ npm install react-native-navigation
+```
 
-### Overview :sunglasses:
-This is a full [React Native](https://facebook.github.io/react-native/) project I took from [Udemy](https://www.udemy.com/react-native-the-practical-guide/learn/lecture/13914812#content). The course covers a lot of `React Native` fundamentals from `Component` rendering, `Navigation and Routers`, `Animation`, `Styling`, `Redux`, `State and Props` and many more like [Redux](https://redux.js.org/) and [Firebase](https://firebase.google.com/). The course also covers other libraries like [Icons](https://github.com/oblador/react-native-vector-icons), [Camera Detection](https://github.com/react-native-community/react-native-camera) and [Geolocations](https://facebook.github.io/react-native/docs/geolocation). I have learned a lot in this course and it has broaden my knowledge about this framework.
+## Contributing
 
-[View project source code](https://github.com/Aimanski12/react-native-p03).
+If you find bugs with this project, pull requests are always welcome. You can [create an issue here](https://github.com/Aimanski12/MyReactNativeProjects/issues/new).
+Your :star: are also greatly appreciated.
 
-<div align="center">
-<a href="https://user-images.githubusercontent.com/32781697/55290400-856a9580-5398-11e9-8ebb-785659c2813f.png"><img src="https://user-images.githubusercontent.com/32781697/55290400-856a9580-5398-11e9-8ebb-785659c2813f.png" title="Project Clip"/></a>
-</div>
-
-</details>
+[View other projects](https://github.com/Aimanski12/MyReactNativeProjects)
 
 ## Author
 
-[Aimanski12](https://github.com/Aimanski12).
-Thank you very very much for giving this project a :star:
+[Aimanski](https://github.com/Aimanski12).
 
 ## License 
 
 Copyright © 2019, [Aimanski12](https://github.com/Aimanski12).
 Released under the [MIT License](LICENSE).
-
