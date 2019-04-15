@@ -4,14 +4,23 @@ Hello and welcome to the Github repo of my React Native Projects. This houses al
 
 ## Table of Contents
 
-The projects are listed from the latest.
+The projects are listed from the latest. :arrow_up:
 
 <details>
 <summary><strong>04. Maps of React Native </strong></summary>
 
 ### Overview :sunglasses:
 
-Coming Soon..!
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj04).
+
+I wanted to make an application that renders [Google Maps](https://www.google.com/maps) so I made this application that renders maps on a mobile device. I had so much fun building this application and I learned how to render map components using `MapView` and the properties that are needed for the map to render. I also learned how to create map markers using `MapView.Marker` and animate the markers when a new location is selected. I also learned how to `Polygons` and `Polylines`. This can be very useful for projects that needs map components.
+
+<div float="left">
+<a href="https://user-images.githubusercontent.com/32781697/56159806-31ac9e80-5f8b-11e9-9364-ebbab786a849.gif"><img src="https://user-images.githubusercontent.com/32781697/56159806-31ac9e80-5f8b-11e9-9364-ebbab786a849.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/56159821-3f622400-5f8b-11e9-8651-d3596e9cf294.gif"><img src="https://user-images.githubusercontent.com/32781697/56159821-3f622400-5f8b-11e9-8651-d3596e9cf294.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/56159840-4ab54f80-5f8b-11e9-81ce-095fbb2d0577.gif"><img src="https://user-images.githubusercontent.com/32781697/56159840-4ab54f80-5f8b-11e9-81ce-095fbb2d0577.gif" title="Project Clip" /></a>
+<a href="https://user-images.githubusercontent.com/32781697/56159853-56a11180-5f8b-11e9-9fa4-fba0aeb036b1.gif"><img src="https://user-images.githubusercontent.com/32781697/56159853-56a11180-5f8b-11e9-9fa4-fba0aeb036b1.gif" title="Project Clip" /></a>
+</div>
 
 </details>
 
