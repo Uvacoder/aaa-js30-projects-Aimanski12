@@ -9,7 +9,9 @@ The projects are listed from the latest. :arrow_up:
 <details>
 <summary><strong>05. Camera of React Native </strong></summary>
 
-This is a project for ReactNative Camera
+### Overview :sunglasses:
+
+I was trying to play some api's where i can render a real camera and I found a library that can render a camera. So I was playing with [React Native Camera](). i was so happy about how it worked. 
 
 </details>
 
