@@ -13,6 +13,19 @@ The projects are listed from the latest. :arrow_up:
 
 I was trying to play some api's where I can render a real camera with[React Native Camera](https://github.com/react-native-community/react-native-camera). I was very excited creating this app. It allows you to capture, store and delete images and all the data are saves in [Google Firebase](https://firebase.google.com/). 
 
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj04).
+
+<div float="left">
+<object width="850" height="450">
+  <param name="movie" value="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="850" height="450" />
+</object>
+</div>
+
+
 </details>
 
 <details>
