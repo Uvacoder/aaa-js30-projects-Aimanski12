@@ -15,6 +15,8 @@ I was trying to play some api's where I can render a real camera with[React Nati
 
 [View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj04).
 
+[Watch Short Video Clip](https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be).
+
 <div float="left">
   <a href="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be">
     <img src="https://user-images.githubusercontent.com/32781697/56854352-ad4b0b80-68fa-11e9-88d5-cb93e8ce7b79.png" alt="screen shot">
