@@ -11,7 +11,7 @@ The projects are listed from the latest. :arrow_up:
 
 ### Overview :sunglasses:
 
-I was trying to play some api's where I can render a real camera with [React Native Camera](https://github.com/react-native-community/react-native-camera) and store a images to cloud storage using [Google Firebase](https://firebase.google.com/) and store all images data so that the user can access all the information. I was very excited creating this app. In this project, I learned how to set up a native app using camera and how to build a cloud data storage.
+I was trying to play some api's where I can render a real camera with [React Native Camera](https://github.com/react-native-community/react-native-camera) and store images to cloud storage using [Google Firebase](https://firebase.google.com/) and store all images data so that the user can access all the information. I was very excited creating this app. In this project, I learned how to set up a native app using camera and how to build a cloud data storage.
 
 [View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj05).
 
