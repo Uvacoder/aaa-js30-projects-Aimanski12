@@ -16,14 +16,8 @@ I was trying to play some api's where I can render a real camera with[React Nati
 [View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj04).
 
 <div float="left">
-<a href="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT">
-
-<iframe width="850" height="450"
-  src="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen></iframe>
-
+<a href="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be">
+  <img src="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be" alt="IMAGE ALT TEXT">
 
 </a>
 </div>
