@@ -11,7 +11,7 @@ The projects are listed from the latest. :arrow_up:
 
 ### Overview :sunglasses:
 
-I was trying to play some api's where i can render a real camera and I found a library that can render a camera. So I was playing with [React Native Camera](). i was so happy about how it worked. 
+I was trying to play some api's where I can render a real camera with[React Native Camera](https://github.com/react-native-community/react-native-camera). I was very excited creating this app. It allows you to capture, store and delete images and all the data are saves in [Google Firebase](https://firebase.google.com/). 
 
 </details>
 
