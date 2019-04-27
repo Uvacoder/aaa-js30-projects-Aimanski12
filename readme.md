@@ -16,13 +16,11 @@ I was trying to play some api's where I can render a real camera with[React Nati
 [View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj04).
 
 <div float="left">
-<object width="850" height="450">
-  <param name="movie" value="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="850" height="450" />
-</object>
+<iframe width="850" height="450"
+  src="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen></iframe>
 </div>
 
 
