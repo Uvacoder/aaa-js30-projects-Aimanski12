@@ -7,6 +7,15 @@ Hello and welcome to the Github repo of my React Native Projects. This houses al
 The projects are listed from the latest. :arrow_up:
 
 <details>
+<summary><strong>06. Barcode Scanner</strong></summary>
+
+### Overview :sunglasses:
+
+Currently working on it.
+
+</details>
+
+<details>
 <summary><strong>05. Camera of React Native </strong></summary>
 
 ### Overview :sunglasses:
