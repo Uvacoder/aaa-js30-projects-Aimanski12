@@ -11,7 +11,7 @@ The projects are listed from the latest. :arrow_up:
 
 ### Overview :sunglasses:
 
-Currently working on it.
+This is a Barcode Sanner App
 
 </details>
 
