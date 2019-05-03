@@ -11,7 +11,7 @@ The projects are listed from the latest. :arrow_up:
 
 ### Overview :sunglasses:
 
-This is a Barcode Sanner App
+This is a Barcode Scanner App that scans UPC Barcodes and then returns all the Data.
 
 </details>
 
