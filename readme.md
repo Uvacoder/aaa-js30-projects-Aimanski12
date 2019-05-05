@@ -11,7 +11,11 @@ The projects are listed from the latest. :arrow_up:
 
 ### Overview :sunglasses:
 
-This is a Barcode Scanner App that scans UPC Barcodes and then returns all the Data.
+Barcode scanners are one of the applications that amazes me. So, I have decided to create one. This is just a simple application that can open/stream a camera and detect a barcode. Then fetches data from an api with the scanned barcode. In this application, i learned how to use the [Quagga](), a jacascript library that renders a camera onto a browser and detects any barcode. I also learned how to use the [Barcode API]() where you can query from there database about some informations of the barcode scanned and return informations about the scanned barcode. 
+
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj05).
+
+[Watch Short Video Clip](https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be).
 
 </details>
 
