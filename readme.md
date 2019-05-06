@@ -11,11 +11,19 @@ The projects are listed from the latest. :arrow_up:
 
 ### Overview :sunglasses:
 
-Barcode scanners are one of the applications that amazes me. So, I have decided to create one. This is just a simple application that can open/stream a camera and detect a barcode. Then fetches data from an api with the scanned barcode. In this application, i learned how to use the [Quagga](), a jacascript library that renders a camera onto a browser and detects any barcode. I also learned how to use the [Barcode API]() where you can query from there database about some informations of the barcode scanned and return informations about the scanned barcode. 
+Barcode scanners are one of the applications that amazes me. So, I have decided to create one. This is app allows you to scan barcodes directly from the user's browser. The app is using [Quagga]() a javascript library that streams the user's camera and then searches for any barcodes rendered from the streamed video. The app fetches data from [Barcode API]() and then returns product information related to the barcode. 
 
-[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj05).
 
-[Watch Short Video Clip](https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be).
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj06).
+
+[Watch Short Video Clip](https://www.youtube.com/watch?v=RHSBdVFhjZs&feature=youtu.be).
+
+<div float="left">
+  <a href="https://www.youtube.com/watch?v=RHSBdVFhjZs&feature=youtu.be">
+    <img src="https://user-images.githubusercontent.com/32781697/57206082-c56cfb80-6f88-11e9-8d76-a94aef05d1f2.gif" alt="screen shot">
+  </a>
+</div>
+
 
 </details>
 
