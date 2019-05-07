@@ -11,7 +11,7 @@ The projects are listed from the latest. :arrow_up:
 
 ### Overview :sunglasses:
 
-Barcode scanners are one of the applications that amazes me. So, I have decided to create one. This is app allows you to scan barcodes directly from the user's browser. The app is using [Quagga]() a javascript library that streams the user's camera and then searches for any barcodes rendered from the streamed video. The app fetches data from [Barcode API]() and then returns product information related to the barcode. 
+Barcode scanners are one of the applications that amazes me. So, I have decided to create one. This is app allows you to scan barcodes directly from the user's browser. The app is using [Quagga](https://serratus.github.io/quaggaJS/) a javascript library that streams the user's camera and then searches for any barcodes rendered from the streamed video. The app fetches data from [Barcode API](https://www.barcodelookup.com/api) and then returns product information related to the barcode. 
 
 
 [View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj06).
