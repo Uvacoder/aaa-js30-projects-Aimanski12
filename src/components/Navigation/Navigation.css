@@ -1,0 +1,44 @@
+.mainNavbar {
+  margin-top: 30px;
+}
+
+.navBrand {
+  color: #626569;
+  font-weight: 700
+}
+
+.favIcon {
+  color: red !important
+}
+
+.navbar-brand:hover {
+  color: #b5b9be;
+  animation: enable 0.1s ease-in-out
+}
+
+.btnNav {
+  border: none;
+  color: #626569;
+  font-weight: 700;
+  margin-right: 10
+}
+
+.btnNav:hover {
+  background: none;
+  color: #b5b9be;
+  animation: enable 0.1s ease-in-out
+}
+
+@keyframes enable {
+  0% {
+    transform: scale(1);
+  }
+
+  90% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

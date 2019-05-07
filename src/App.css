@@ -1,0 +1,13 @@
+
+.bkg {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background: #c0defc;
+  background: url('./assets/background.jpg') no-repeat fixed;
+  background-size: cover;
+  background-position: center;
+  overflow: auto
+}
+
+
