@@ -7,6 +7,16 @@ Hello and welcome to the Github repo of my React Native Projects. This houses al
 The projects are listed from the latest. :arrow_up:
 
 <details>
+<summary><strong>07. Music Keyboard</strong></summary>
+
+### Overview :sunglasses:
+
+Soon to come
+
+</details>
+
+
+<details>
 <summary><strong>06. Barcode Scanner</strong></summary>
 
 ### Overview :sunglasses:
