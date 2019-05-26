@@ -17,7 +17,7 @@ class Scan extends Component {
   _onBarcodeDetect(barcode){
     this.props.process(barcode)
   }
-
+ 
   render() {
     
     let componentRendered = 
@@ -44,12 +44,27 @@ class Scan extends Component {
               {'Try Again'}</button>
         </div>
       </Fragment>
+    } else if(this.props.noApi){
+      componentRendered =
+      <Fragment>
+        <div className='divMargin'>
+          <div className='invalid'>
+            <h1>You need an <a href="https://www.barcodelookup.com/api" target="_blank">API key</a> to run this App.</h1>
+          </div>
+          <button 
+            type="button" 
+            onClick={this.props.startScanning}
+            className="btn btn-primary btn-md btn-block btn-scan">
+              {'Try Again'}</button>
+        </div>
+      </Fragment>
     }
 
 
     if(this.props.scan){
       componentRendered = <div className="scannerCam">
-          <Scanner onBarcodeDetect={this._onBarcodeDetect} />
+          <Scanner onBarcodeDetect={this._onBarcodeDetect} 
+          noCamera={()=>console.log('there was no camera')} />
       </div>
     }
     if(this.props.spinner){
@@ -58,7 +73,9 @@ class Scan extends Component {
     if(this.props.productScanned != null){
       if(this.props.scan) {
         componentRendered = <div className="scannerCam">
-            <Scanner onBarcodeDetect={this._onBarcodeDetect} />
+            <Scanner 
+              onBarcodeDetect={this._onBarcodeDetect} 
+              />
           </div>
       } else {
         componentRendered = <Product 
@@ -84,7 +101,8 @@ const mapStateToProps = (state, ownProps) => {
     productScanned: state.scanned.productScanned,
     spinner: state.scanned.spinner,
     scan: state.scanned.startScanning,
-    invalid: state.scanned.invalidBarcode
+    invalid: state.scanned.invalidBarcode,
+    noApi: state.scanned.noApi
   }
 }
 

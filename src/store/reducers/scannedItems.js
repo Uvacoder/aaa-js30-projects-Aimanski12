@@ -4,7 +4,8 @@ const initialState = {
   startScanning: false,
   scannedItems: [],
   productScanned: null,
-  invalidBarcode: false
+  invalidBarcode: false,
+  noApi: false
 }
 
 const scannedItems = (state = initialState, action) => {
@@ -27,6 +28,7 @@ const scannedItems = (state = initialState, action) => {
         ...state,
         productScanned: action.payload,
         invalidBarcode: false,
+        noApi: false,
         spinner: false,
         startScanning: false,
         scannedItems: [...state.scannedItems, action.payload]
@@ -36,21 +38,30 @@ const scannedItems = (state = initialState, action) => {
         ...state,
         productScanned: null,
         spinner: false,
-        invalidBarcode: true
+        invalidBarcode: true,
+        noApi: false
       }
-      case 'CLEAR_SCANNED':
-        return {
-          ...state,
-          productScanned: null
-        }
-      case 'SET_ITEM': 
-        let selected = state.scannedItems.filter((item, i)=> {
-           return i === action.payload
-        })
-        return {
-          ...state,
-          productScanned: {...selected[0]}
-        }
+    case 'NO_API_KEY':
+      return {
+        ...state,
+        productScanned: null,
+        spinner: false,
+        invalidBarcode: false,
+        noApi: true
+      }
+    case 'CLEAR_SCANNED':
+      return {
+        ...state,
+        productScanned: null
+      }
+    case 'SET_ITEM': 
+      let selected = state.scannedItems.filter((item, i)=> {
+          return i === action.payload
+      })
+      return {
+        ...state,
+        productScanned: {...selected[0]}
+      }
       case 'DELETE_ITEM':
         return {
           ...state,

@@ -1,13 +1,18 @@
 import React, { Component, Fragment } from 'react'
 import Quagga from 'quagga'
+import './Scanner.css'
 
 class Scanner extends Component {
 
   constructor(props){
     super(props);
+    this.state ={
+      nocamera: false
+    }
     this.onDetect = this.onDetect.bind(this)
   }
 
+  
   componentDidMount(){
     Quagga.init({
       inputStream: {
@@ -15,7 +20,7 @@ class Scanner extends Component {
         type: "LiveStream",
         constraints: {
           width: '790',
-          height: '390'
+          height: '490'
         },
         numberOfWorkers: navigator.hardwareConcurrency,
         target: document.querySelector('#barcodeScan')
@@ -26,16 +31,16 @@ class Scanner extends Component {
       }
     }, function (err) {
       if (err) {
-        console.log(err);
-        return
+        return 
       }
       Quagga.start()
     })
     Quagga.onDetected(this.onDetect)
+    
   }
 
   onDetect(res){
-    console.log(res.codeResult.code)
+    // console.log(res.codeResult.code)
     Quagga.stop()
     Quagga.offProcessed()
     this.props.onBarcodeDetect(res.codeResult.code)

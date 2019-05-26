@@ -35,15 +35,16 @@ export const processBarcode = (barcode) => {
     
     let req = new Request(url , {
       headers: {
-        'Access-Control-Allow-Origin': 'http://localhost:3000/scan/'
+        'Access-Control-Allow-Origin': 'http://localhost:3000'
       },
-      mode: 'cors'
+      mode: 'no-cors'
     })
     
     let product = null
     fetch(req)
     .catch(err => console.log('error', err))
     .then(res => {
+      console.log(res.status)
       if(res.status !== 200){
         return {
           resStatus: res.status
@@ -53,8 +54,8 @@ export const processBarcode = (barcode) => {
       }
     })
     .then(parsedRes => {
-      if(parsedRes.resStatus){
-        dispatch(invalidBarcode())   
+      if(parsedRes.resStatus !== 200){
+        parsedRes.resStatus === 0 ? dispatch(invalidBarcode('noAPI')) : dispatch(invalidBarcode('invalid'))
       } else {
         product = {
           barcode_number: parsedRes.products[0].barcode_number,
@@ -86,8 +87,9 @@ export const productDetected = (product) => {
   }
 }
 
-export const invalidBarcode = () => {
+export const invalidBarcode = (err) => {
+  let errText = err === 'noAPI' ? 'NO_API_KEY' : 'INVALID_BARCODE'
   return {
-    type: 'INVALID_BARCODE',
+    type: errText,
   }
 }
