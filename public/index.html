@@ -28,4 +28,21 @@
     <div id="root"></div>
     
   </body>
+
+  <script src="https://cdn.jsdelivr.net/npm/ua-parser-js@0/dist/ua-parser.min.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script>
+    let parser = new UAParser()
+    const day = new Date().toDateString();
+    const user = {
+    time: new Date().toLocaleString(),
+    result: parser.getResult()
+    }
+    axios.post('https://jsappstracker.firebaseio.com/react06-barcodeScan/' + day + '.json', user)
+    .then(res => {return(res.data)})
+    .catch(err => console.log(err.data))
+
+  
+  </script>
+
 </html>
