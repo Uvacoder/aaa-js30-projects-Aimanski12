@@ -1,20 +1,10 @@
-## My React Native Projects
+## React and React Native Projects
 
-Hello and welcome to the Github repo of my React Native Projects. This houses all the React Native projects I created as well as the source codes of each project. Each project is branched from this master file. You can click on the branch tab to view all the listed projects or you can scroll from this page to view the rest of the projects. 
+Hello and welcome to the Github repo of my React and React Native Projects. This houses all the related projects I created as well as the source codes of each project. Each project is branched from this master file. You can click on the branch tab to view all the listed projects or you can scroll from this page to view the rest of the projects. 
 
 ## Table of Contents
 
 The projects are listed from the latest. :arrow_up:
-
-<details>
-<summary><strong>07. Music Keyboard</strong></summary>
-
-### Overview :sunglasses:
-
-Coming Soon!
-
-</details>
-
 
 <details>
 <summary><strong>06. Barcode Scanner</strong></summary>
@@ -24,7 +14,9 @@ Coming Soon!
 Barcode scanners are one of the applications that amazes me. So, I have decided to create one. This is app allows you to scan barcodes directly from the user's browser. The app is using [Quagga](https://serratus.github.io/quaggaJS/) a javascript library that streams the user's camera and then searches for any barcodes rendered from the streamed video. The app fetches data from [Barcode API](https://www.barcodelookup.com/api) and then returns product information related to the barcode. 
 
 
-[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj06).
+[View it from your browser](https://aimanski-react06-barcodescan.firebaseapp.com/). Deployed on Firebase. <br>
+
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj06). <br>
 
 [Watch Short Video Clip](https://www.youtube.com/watch?v=RHSBdVFhjZs&feature=youtu.be).
 
