@@ -14,8 +14,8 @@ The projects are listed from the latest. :arrow_up:
 This is a simple weather app that allows you to check weather conditions from any city you want. You can type any city and it will provide the latest weather of that city you entered. The resources from this app are from [OpenWeatherMap](https://openweathermap.org/). 
 
 [View it from your browser](https://aimanski-weatherapp.firebaseapp.com/). Deployed at firebase.<br>
-[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj07). <br>
-[Watch Short Video Clip](hhttps://www.youtube.com/watch?v=_M7zkeqpyD8). <br>
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj07).<br>
+[Watch Short Video Clip](https://www.youtube.com/watch?v=_M7zkeqpyD8). <br>
 
 <div float="left">
   <a href="https://www.youtube.com/watch?v=_M7zkeqpyD8">
