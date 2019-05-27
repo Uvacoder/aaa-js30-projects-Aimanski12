@@ -12,7 +12,7 @@
   </a>
 </div>
 
-> Thing I learned in this project;
+> Things I learned in this project;
 * Build a full front-end web application using ReactJS.
 * How to query data from an external resource and utilize data in the app using [axios](https://www.npmjs.com/package/axios).
 * Use [UA-parser-js](https://www.npmjs.com/package/ua-parser-js) to calculate time of a certain city in reference to the user's current location. 
