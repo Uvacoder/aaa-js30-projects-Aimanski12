@@ -1,0 +1,315 @@
+.App {
+  text-align: center;
+  /* min-height: 100vh; */
+}
+
+
+.Main{
+  min-height: 100vh;
+  background: rgb(43,71,120)
+}
+
+
+.Top{
+  width: 100%;
+  height: 50vh;
+  position: relative;
+}
+
+/* logo area */
+.LogoArea{
+  position: absolute;
+  width: 32%;
+  margin: 1.5% 0.75% 2.25% 1.5%;
+  margin-left: 2.5%;
+  height: 97%;
+}
+.LogoArea img{
+  margin-top:5em;
+  width: 100%;
+}
+.TopDesc{
+  width: 62%;
+  height: 97%; 
+  float: right;
+  margin: 1.5% 2.25% 0.75% 1.5%;
+  /* background: rgb(187,162,157) */
+  color: rgb(225,225,225)
+}
+.TopDesc .province{
+  margin-top: 1.5em;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: capitalize
+}
+.TopDesc .time{
+  font-size: 0.9em
+}
+.TopDesc .country{
+  font-weight: 700
+}
+.TopDesc .temp{
+  font-size: 7em;
+}
+.TopDesc .weatherDesk {
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: capitalize
+}
+
+
+/* Midsection */
+.MidSection{
+  position: relative;
+  width: 100%;
+  height: 15vh;
+  /* background: rgb(211,227,252) */
+}
+.SectionDiv{
+  position: absolute;
+  width: 98%;
+  height: 14vh;
+  margin-top: 0.5vh;
+  margin-left: 1%;
+  /* background: rgb(183,196,217) */
+}
+
+.SectionDiv div{
+  color: rgb(19,53,113);
+  height: 100%;
+  width: 19.1%;
+  float: left;
+  margin-right: .7%;
+  background: rgb(152,163,180);
+  border-radius: 4px
+}
+.SectionDiv div:nth-child(1) {
+  margin-left: 0.9%;
+}
+.SectionDiv div h5{
+  height: 25%;
+  font-size: 1em;
+  /* background: red; */
+  color: white;
+  padding-top: 0em;
+  margin: 0
+}
+.SectionDiv div .img {
+  height: 45%;
+  width: 100%;
+  margin-top: 0;
+}
+.SectionDiv div .dailyTemp {
+  height: 30%;
+  width: 100%;
+}
+.dailyTemp small {
+  width: 100%;
+  color: white;
+  font-weight: 600;
+  font-size: 1.3em;
+}
+
+
+
+
+
+
+
+.Bottom{
+  position: relative;
+  width: 100%;
+  height: 35vh;
+}
+.BottomSection{
+  position: absolute;
+  width: 98%;
+  height: 34vh;
+  margin-top: 0.5vh;
+  margin-left: 1%;
+  background: rgb(203,223,189, 0.3)
+}
+.BottomSection .left,
+.BottomSection .right{
+  width: 46%;
+  float: left;
+  height: 98%;
+  margin-right: 3%;
+}
+.BottomSection .left{
+  margin-left: 2%;
+}
+.left div,
+.right div{
+  color: rgb(240,240,240);
+  height: 15%;
+  width: 100%;
+  border-bottom: 1px solid rgb(180,180,180)
+}
+.label,
+.value{
+  float: left;
+  height: 100%;
+  margin: 0;
+  padding-top: 0.6em;
+}
+.label{
+  width:40%;
+  color: rgb(205,223,254);
+  padding-top: 0.9em;
+  text-align: left;
+  padding-top: 1.5em;
+  padding-left: 0.5em;
+  font-size: 0.7em;
+  font-weight: 500;
+}
+.value {
+  width: 60%;
+  font-weight: 600;
+  text-align: right;
+  padding-right: 0.5em;
+  font-size: 0.85em;
+}
+.desc{
+  text-transform: capitalize;
+  /* color: red; */
+    padding-top: 1.5em;
+  font-size: 0.7em
+}
+
+
+
+/* inputArea */
+.InputArea{
+  padding-top: 12px;
+  margin-bottom: 0 !important;
+}
+.InputArea input{
+  /* background: red; */
+  /* border-radius: 0; */
+  background: rgb(238, 232, 239);
+  height: 40px;
+}
+.InputArea button{
+  font-size: 0.95em;  
+  border: 1px solid rgb(238,232,239);
+  color: rgb(238,232,239)
+}
+.Message{
+  height: 1.5em;
+}
+.Message small{
+  color: rgb(238, 232, 239);
+  font-size: 0.75em;
+  font-weight:  600;
+}
+.ListOfCity {
+  padding-top: 2px;
+  /* background: red */
+}
+.ListOfCity li {
+  background: rgb(238,232,239);
+  margin-bottom: 0.1em;
+  padding: 0em;
+  height: 3.6em;
+  color: rgb(27,66,134)
+}
+.ListOfCity li:hover {
+  cursor: pointer;
+  background: rgb(230,240,240, 0.9)
+}
+.MainCity{
+  width: 60%;
+  height: 30%;
+  text-align: left;
+  float: left;
+}
+.MainCity small{
+  margin-left: 2.1em;
+  font-size: 0.7em
+}
+.MainCity h5{
+  margin-left: 0.9em;
+  font-size: 1.35em;
+  text-transform: capitalize
+}
+.MainTemp {
+  width: 40%;
+  height: 100%;
+  margin-top: 0.05em;
+  float: right;
+  text-align: right;
+}
+.MainTemp h5 {
+  margin-top: 0.08em;
+  margin-right: 0.65em;
+  font-size: 2.5em
+}
+
+.ListOfCity li button {
+  position: absolute;
+  right: 0.3em;
+  top: -0.35em;
+}
+.ListOfCity li button span {
+  font-size: 0.65em;
+  color: rgb(27, 66, 134)
+}
+.noCity{
+  background: transparent !important;
+  height: 60% !important;
+  border: none !important
+}
+.noCity h5{
+  width: 100%;
+  font-size: 1.5em;
+  text-align: center;
+color: rgb(238, 232, 239, 0.3);
+}
+
+
+
+
+.FooterBottom{
+  width: 100%;
+  height: 15%;
+  margin-top: 5px;
+  color: rgb(238, 232, 239);
+}
+.FooterBottom .degrees,
+.FooterBottom .MyName{
+  float: left;
+  height: 15%;
+  width: 33.33%;
+}
+
+.degrees{
+  font-size: 1.1em;
+  text-align: left;
+  height: 15%;
+  padding-left: 0.8em;
+}
+.degrees small{
+  font-weight: 800;
+}
+.MyName small{
+  height: 15%;
+  font-weight: 600;
+}
+.Add {
+  height: 15%;
+  text-align: right;
+  padding-right: 1em;
+  font-size: 1.1em;
+}
+.Add i{
+  margin-top: 0.5em;
+
+}
+.Add small {
+  font-size: 0.75em;
+  font-weight: 600
+}
+.unselected {
+  color: rgb(160,190,190, 0.9)
+}
