@@ -7,6 +7,24 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
+<summary><strong>07. Weather App</strong></summary>
+
+### Overview :sunglasses:
+
+This is a simple weather app that allows you to check weather conditions from any city you want. You can type any city and it will provide the latest weather of that city you entered. The resources from this app are from [OpenWeatherMap](https://openweathermap.org/). 
+
+[View it from your browser](https://aimanski-weatherapp.firebaseapp.com/). Deployed at firebase.<br>
+[View project source code](https://github.com/Aimanski12/MyReactNativeProjects/tree/proj07). <br>
+[Watch Short Video Clip](hhttps://www.youtube.com/watch?v=_M7zkeqpyD8). <br>
+
+<div float="left">
+  <a href="https://www.youtube.com/watch?v=_M7zkeqpyD8">
+    <img src="https://user-images.githubusercontent.com/32781697/58397784-25027800-8018-11e9-8df8-739d52ddc9f8.gif" alt="screen shot">
+  </a>
+</div>
+
+</details>
+<details>
 <summary><strong>06. Barcode Scanner</strong></summary>
 
 ### Overview :sunglasses:
@@ -25,8 +43,6 @@ Barcode scanners are one of the applications that amazes me. So, I have decided 
     <img src="https://user-images.githubusercontent.com/32781697/57206082-c56cfb80-6f88-11e9-8d76-a94aef05d1f2.gif" alt="screen shot">
   </a>
 </div>
-
-
 </details>
 
 <details>
