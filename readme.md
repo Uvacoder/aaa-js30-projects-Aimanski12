@@ -35,11 +35,10 @@ $ npx create-react-app my-app
 
 Then you can cd into your application and the you can start install all the dependencies;
 ```bash
-$ npm install quagga
-$ npm install react-redux
-$ npm install redux
-$ npm install redux-think
+$ npm install
 ```
+
+After installations, visit [barcodelookup.com](https://www.barcodelookup.com/) and signup for the free Api Key. Once you have it, make sure to add the API key and the URL at `./assets/config.js` file. Then you can type `npm start` to run the application.
 
 ## Contributing
 
