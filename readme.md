@@ -2,7 +2,7 @@
 
 > This is app allows you to scan barcodes directly from the user's browser. The app is using [Quagga](https://serratus.github.io/quaggaJS/) a javascript library that streams the user's camera and then searches for any barcodes rendered from the streamed video. The app fetches data from [Barcode API](https://www.barcodelookup.com/api) and then returns product information related to the barcode. 
 
-[View it from your browser](https://aimanski-react06-barcodescan.firebaseapp.com/). Deployed at firebase.
+[View it from your browser](https://aimanski-react06-barcodesca.firebaseapp.com/). Deployed at firebase.
 
 [Watch Short Video Clip](https://www.youtube.com/watch?v=RHSBdVFhjZs&feature=youtu.be).
 
