@@ -7,14 +7,6 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-<summary><strong>08. Games</strong></summary>
-Coming Soon!
-
-
-</details>
-
-
-<details>
 <summary><strong>07. Weather App</strong></summary>
 
 ### Overview :sunglasses:
