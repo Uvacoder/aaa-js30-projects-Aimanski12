@@ -2,7 +2,7 @@
 
 > Todo List App is very common programming exercises. I am building this app and want to make it something different. It is a list of todo-list. It allows you to create multiple todo-list with the same functionality. This app is a MERN Stack App. 
 
-[View it from your browser](https://aimanski-multiapp.herokuapp.com/). Deployed at firebase.
+[View it from your browser](https://aimanski-multiapp.herokuapp.com/). Deployed at Heroku. <br>
 [Watch Short Video Clip](https://www.youtube.com/watch?v=RT3m9PTgPb8).
 
 <div float="left">
