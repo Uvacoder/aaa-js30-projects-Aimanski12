@@ -42,7 +42,7 @@ Then you can cd into your application `cd proj-name` and `cd proj-name/client` a
 $ npm install 
 ```
 
-After installations, visit [OpenWeatherMap](https://openweathermap.org/) and sign up for the free API Key. Once you have the API Key and the URL for querying at the `src/config/config.js` file. Then you can type `npm start` to run the application.
+After installations, visit [Mongo DB](https://www.mongodb.com/) and sign up for the free API Key. Once you have the API Key and add it to the config `src/config/config.js` file. Then go back to your [Mongo DB](https://www.mongodb.com/) account and must create a database cluster as your server for this application. Here is a [guide](https://docs.mongodb.com/manual/tutorial/atlas-free-tier-setup/) on how to create
 
 ## Contributing
 
