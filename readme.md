@@ -4,7 +4,7 @@
 
 [View it from your browser](https://aimanski-weatherapp.firebaseapp.com/). Deployed at firebase.
 
-[Watch Short Video Clip](hhttps://www.youtube.com/watch?v=_M7zkeqpyD8).
+[Watch Short Video Clip](https://www.youtube.com/watch?v=_M7zkeqpyD8).
 
 <div float="left">
   <a href="https://www.youtube.com/watch?v=_M7zkeqpyD8">
