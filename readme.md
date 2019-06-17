@@ -7,6 +7,25 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
+<summary><strong>08. Multi-todo List App</strong></summary>
+
+### Overview :sunglasses:
+
+> Todo List App is very common programming exercises. I am building this app and want to make it something different. It is a list of todo-list. It allows you to create multiple todo-list with the same functionality. This app is a MERN Stack App. 
+
+[View it from your browser](https://aimanski-multiapp.herokuapp.com/). Deployed at Heroku. <br>
+[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj08).<br>
+[Watch Short Video Clip](https://www.youtube.com/watch?v=RT3m9PTgPb8).
+
+<div float="left">
+  <a href="https://www.youtube.com/watch?v=RT3m9PTgPb8">
+    <img src="https://user-images.githubusercontent.com/32781697/59612982-ae6f0c80-90e3-11e9-9132-340ff4deb5fe.png" alt="screen shot">
+  </a>
+</div>
+</details>
+
+
+<details>
 <summary><strong>07. Weather App</strong></summary>
 
 ### Overview :sunglasses:
@@ -22,8 +41,9 @@ This is a simple weather app that allows you to check weather conditions from an
     <img src="https://user-images.githubusercontent.com/32781697/58397784-25027800-8018-11e9-8df8-739d52ddc9f8.gif" alt="screen shot">
   </a>
 </div>
-
 </details>
+
+
 <details>
 <summary><strong>06. Barcode Scanner</strong></summary>
 
