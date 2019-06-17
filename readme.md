@@ -31,7 +31,7 @@
 Create a new application with 
 
 ```bash
-$ npx create-react-app my-app
+$ git clone https://github.com/Aimanski12/ReactJS_Projects/tree/proj07 proj-name
 ```
 
 Then you can cd into your application and install all the dependencies with
