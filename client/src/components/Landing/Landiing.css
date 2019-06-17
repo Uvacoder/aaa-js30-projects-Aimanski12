@@ -1,0 +1,22 @@
+
+.jumbotron{
+  position: relative;
+  z-index: 10;
+  margin-top: 11em
+}
+
+.lead{
+  margin-top: 1em
+}
+
+.leadBtn{
+  margin-top: 2em
+}
+.leadBtn a:nth-child(1){
+  width: 6.5em;
+  margin-left: 2em
+}
+.leadBtn a:nth-child(2) {
+  width: 6.5em;
+  margin-right: 2em
+}

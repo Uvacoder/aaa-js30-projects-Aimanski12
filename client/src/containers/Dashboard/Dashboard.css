@@ -1,0 +1,171 @@
+
+.row{
+  margin-top: 4.12em;
+
+}
+.Col {
+  margin-bottom: 0.5em;
+  /* padding: 0.5em */
+}
+
+.Empty{
+  margin-top: 15em;
+  text-align: center;
+  color: rgb(205,205,205);
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+.Empty h5{
+  font-size: 30px;
+}
+
+/* List */
+.List{
+  background: rgb(240,240,240, 0.95);
+}
+.List .card-body{
+  padding: 0.5em
+}
+.List button[class*='close']{
+  margin: -0.5em -0.2em;
+  font-size: 1.4em;
+  color: rgb(150,150,150)
+}
+.List button[class*='close'] span:hover {
+  color: red;
+  cursor: pointer;
+}
+.List .DashHeader,
+.List .ListSum {
+  width: 80%;
+  float: left;
+  height: 3em;
+}
+.DashHeader h5,
+.ListSum h5{
+  font-weight: 700;
+  height: 1.4em;
+  margin: 0;
+  /* background: red */
+}
+
+
+.DashHeader h5:hover {
+  color: rgb(73, 19, 104);
+  cursor: pointer;
+  animation: enable 0.1s linear;
+}
+@keyframes enable {
+  0% {
+    transform: scale(1);
+  }
+
+  60% {
+    transform: scale(1.01);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+
+
+.DashHeader span,
+.ListSum span{
+  position: relative;
+  top: -0.5em;
+  height: 0.5em;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: rgb(90,90,90)
+}
+.DashHeader span i{
+  font-size: 0.9em;
+}
+.List .ListSum{
+  text-align: center;
+  width: 20%;
+  float: right;
+}
+
+
+/* DashInput */
+.DashInput input{
+  font-size: 0.9em
+}
+
+
+/* ListGroup */
+.ListGroup{
+  margin-top: 0.2em;
+}
+.ListGroup li {
+  padding: 0.5em 0.5em;
+  margin-bottom: 0.1em
+}
+.ListGroup .DashInput {
+  margin-bottom: 0.1em
+}
+.ListGroup li p {
+  font-size: 0.95em;
+  font-weight: 500;
+  word-spacing: 0.1em;
+  width: 100%;
+  line-height: 1;  
+}
+
+.ListGroup li p[class*='done'] {
+  text-decoration: line-through;
+  color:red
+}
+.ListGroup li p:hover {
+  color: rgb(73,19,104);
+  cursor: pointer;
+  animation: enable 0.1s linear;
+}
+.ListGroup .Icons {
+  width: 100%;
+}
+.ListGroup .Icons small {
+  width: 80%;
+  font-size: 0.68em;
+  padding-left: 1em;
+  font-style: italic;
+}
+.ListGroup .Icons i {
+  width: 20%;
+  text-align: right;
+  padding-right: 0.6em;
+  color: rgb(200,200,200)
+}
+.ListGroup .Icons i:hover {
+  color: red;
+  cursor: pointer;
+  animation: grow 0.1s linear;
+}
+
+.None {
+  text-align: center;
+  font-size: 1.9em;
+  margin: 0;
+  font-weight: 500;
+  color: rgb(190,190,190)
+}
+
+
+@keyframes grow {
+  0% {
+    transform: scale(1);
+  }
+
+  60% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

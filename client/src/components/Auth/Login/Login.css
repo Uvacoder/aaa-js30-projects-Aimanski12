@@ -1,0 +1,27 @@
+.Login {
+  background: rgb(240, 240, 240, 0.95);
+  padding: 1em;
+  margin-top: 10em;
+  border-radius: 4px
+}
+
+.Login h5 {
+  text-align: center;
+  font-size: 1.5em
+}
+
+.Login input,
+.Login button {
+  font-size: 0.95em;
+}
+
+.Login small {
+  font-size: 0.6em;
+  font-weight: 600;
+  color: red !important;
+  padding-left: 0.5em;
+  text-align: center
+}
+.Login small[class*='text-success'] {
+  color: green !important;
+}
