@@ -52,7 +52,7 @@ This is a simple weather app that allows you to check weather conditions from an
 Barcode scanners are one of the applications that amazes me. So, I have decided to create one. This is app allows you to scan barcodes directly from the user's browser. The app is using [Quagga](https://serratus.github.io/quaggaJS/) a javascript library that streams the user's camera and then searches for any barcodes rendered from the streamed video. The app fetches data from [Barcode API](https://www.barcodelookup.com/api) and then returns product information related to the barcode. 
 
 
-[View it from your browser](https://aimanski-react06-barcodesca.firebaseapp.com/). Deployed on Firebase. <br>
+[View it from your browser](https://aimanski-react06-scanner.firebaseapp.com/). Deployed on Firebase. <br>
 
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj06). <br>
 
