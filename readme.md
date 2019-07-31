@@ -13,7 +13,7 @@ The projects are listed from the latest. :arrow_up:
 
 > Todo List App is very common programming exercises. I am building this app and want to make it something different. It is a list of todo-list. It allows you to create multiple todo-list with the same functionality. This app is a MERN Stack App. 
 
-[View it from your browser](https://aimanski-multiapp.herokuapp.com/). Deployed at Heroku. <br>
+[View it from your browser](http://bit.ly/aiman-reactjs08). Deployed at Heroku. <br>
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj08).<br>
 [Watch Short Video Clip](https://www.youtube.com/watch?v=RT3m9PTgPb8).
 
