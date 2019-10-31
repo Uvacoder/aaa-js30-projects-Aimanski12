@@ -6,13 +6,12 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 
 The projects are listed from the latest. :arrow_up:
 
-
 <details>
   <summary><strong>09. Video Search</strong></summary>
 
   ### Overview :sunglasses:
 
-  > Coming Soon
+  > Almost Done!
 
 </details>
 
