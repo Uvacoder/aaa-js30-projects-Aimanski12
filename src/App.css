@@ -1,0 +1,216 @@
+
+
+.App {
+  text-align: center;
+  background-image: linear-gradient(215deg, #254876, #073d71, #052b4f, #03182c, #010c15);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #9ca8b4;
+  font-family: 'baloo chettan';
+  min-height: 100vh;
+}
+
+
+.header{
+  width: 100%;
+  margin-top: 40px;
+}
+
+.header p{
+  font-size: .55em;
+  width: 800px;
+  margin: 30px auto;
+}
+
+.inputbtn{
+  width: 950px;
+  
+}
+
+.inputbtn input{
+  background: #cccfd2;
+  letter-spacing: 0.02em;
+}
+
+.search-btn span{
+  color: #9ca8b4;
+  background: #425379;
+  border: none;
+}
+
+
+.mb-3:hover{
+  cursor: pointer;
+}
+
+span:hover{
+  color: #bcd0e3
+}
+
+.body{
+  width: 1000px;
+  min-height: 65vh;
+}
+
+.bodyHead{
+  text-align: left;
+  margin: 0 30px;
+  letter-spacing: 0.02em;
+}
+
+.movie{
+  width: 200px;
+  float: left;
+  margin: 0 25px 65px 25px;
+}
+
+.card{
+  width: 200px;
+  font-size: 15px;
+  height: 299px;
+  background: none;
+  color: #9ca8b4
+}
+
+.card img {
+  box-shadow: -5px 5px 10px #020a11;
+  margin: 0
+}
+
+.card img:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.rating{
+  background: peru;
+  position: absolute;
+  top: 230px;
+  left: 175px;
+  width: 45px;
+  height: 45px;
+  border-radius: 22.5px;
+  font-size: 1.1em;
+  line-height: 45px;
+  color: #002346
+}
+.card-body, .card-body p, .card-body h5{
+  margin: 0;
+  padding: 0;
+  text-align: left
+}
+
+.card-body h5{
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+.card-body p {
+  font-size: 12px;
+  color: #5a7187
+}
+
+.footer{
+  width: 1000px;
+  height: 60px;
+  /* background: #9ca8b4 */
+}
+.line{
+  width: 1000px;
+  height: 2px;
+  background: #9ca8b4
+}
+.footDesc{
+  width: 80%;
+  height: 45px;
+  float: left;
+}
+.footcopy {
+  width: 20%;
+  height: 45px;
+  float: left;
+}
+
+.footDesc h5{
+  font-size: 15px;
+  padding: 0;
+  text-align: left;
+  margin: 15px 0 0 20px;
+  width: 150px;
+  float: left;
+}
+
+.footDesc p {
+  font-size: 11px;
+  padding: 0;
+  margin: 10px 0 0 55px;
+  width: 550px;
+  float: left;
+}
+
+.footcopy p{
+  font-size: 11px;
+  padding: 12px 0 0 0;
+  margin: 0;
+}
+
+
+.fallBack{
+  margin-top: 50px
+}
+
+.fallBack h5{
+  font-size: 1.5em
+}
+.fallBack b{
+  font-weight: 100;
+  color: #5f7d9b
+}
+
+.fallBack b:hover{
+  cursor: pointer;
+}
+
+.details{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 25px;
+  text-align: left;
+}
+
+.details img{
+  float: left;
+  margin: 0 25px;
+  box-shadow: -15px 15px 15px #020a11;
+}
+.details h5{
+  font-size: .55em;
+  width: 800px;
+  text-align:  justify
+}
+
+.details .textDetail{
+  font-weight: 100;
+  font-size: 0.95em;
+  margin-left: 15px;
+  text-align: justify
+}
+
+.details button{
+   color: #9ca8b4;
+   background: #394c75;
+   border: none;
+}
+
+.details button:hover{
+  background: #425379;
+  color: #bcd0e3
+}
+
+.details button:focus {
+  outline: none
+}
