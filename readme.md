@@ -3,12 +3,12 @@
 > This is a Movie Searcher App. It allows the user to search movies and informations relation about the searched movie. This app uses The Movie DB API to query data about movies. It also uses Axios, a Promised Based HTTP module for NodeJS.
 > MovieDB have so many API's that you can use to query informations about movies. It gives the developer a free API Key 
 
-[View it live from your browser.](http://bit.ly/33TMkfx) Deployed with Firebase through ReactJS<br>
-[Watch Short Video Clip](https://www.youtube.com/watch?v=uNwAIlwhAYM) <br>
+[View it live from your browser.](http://bit.ly/36rnvtd) Deployed with Firebase<br>
+[Watch Short Video Clip]() <br>
 
 <div float="left">
-  <a href="https://www.youtube.com/watch?v=uNwAIlwhAYM">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js29-budget.gif" alt="screen shot">
+  <a href="">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react09-moviesearch.gif" alt="screen shot">
   </a>
 </div>
 
@@ -34,6 +34,7 @@ After downloading the repo you can cd into the `proj-name` and then open up your
 
 ```bash
 $ git branch proj09
+$ npm install
 ```
 
 then run the application with the live-server or you can type;
