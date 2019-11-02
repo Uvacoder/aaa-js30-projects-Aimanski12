@@ -11,7 +11,18 @@ The projects are listed from the latest. :arrow_up:
 
   ### Overview :sunglasses:
 
-  > Almost Done!
+  > This is a Movie Searcher App. It allows the user to search movies and informations relation about the searched movie. This app uses The Movie DB API to query data about movies. It also uses Axios, a Promised Based HTTP module for NodeJS.
+  > MovieDB have so many API's that you can use to query informations about movies. It gives the developer a free API Key 
+
+  [View it live from your browser.](http://bit.ly/36rnvtd) Deployed with Firebase<br>
+  [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj09).<br>
+  [Watch Short Video Clip]() <br>
+
+  <div float="left">
+    <a href="">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react09-moviesearch.gif" alt="screen shot">
+    </a>
+  </div>
 
 </details>
 
