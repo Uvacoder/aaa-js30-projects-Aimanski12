@@ -16,10 +16,10 @@ The projects are listed from the latest. :arrow_up:
 
   [View it live from your browser.](http://bit.ly/36rnvtd) Deployed with Firebase<br>
   [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj09).<br>
-  [Watch Short Video Clip]() <br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=-JO-5kmfmys&t=3s) <br>
 
   <div float="left">
-    <a href="">
+    <a href="https://www.youtube.com/watch?v=-JO-5kmfmys&t=3s">
       <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react09-moviesearch.gif" alt="screen shot">
     </a>
   </div>
