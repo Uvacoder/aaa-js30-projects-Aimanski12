@@ -11,6 +11,15 @@ The projects are listed from the latest. :arrow_up:
 
   ### Overview :sunglasses:
 
+  > Coming Soon!
+
+</details> 
+
+<details>
+  <summary><strong>09. Video Search</strong></summary>
+
+  ### Overview :sunglasses:
+
   > This is a Movie Searcher App. It allows the user to search movies and informations relation about the searched movie. This app uses The Movie DB API to query data about movies. It also uses Axios, a Promised Based HTTP module for NodeJS.
   > MovieDB have so many API's that you can use to query informations about movies. It gives the developer a free API Key 
 
@@ -24,7 +33,7 @@ The projects are listed from the latest. :arrow_up:
     </a>
   </div>
 
-</details>
+</details> 
 
 
 <details>
