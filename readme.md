@@ -7,7 +7,7 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>10. Video Search</strong></summary>
+  <summary><strong>10. Tralse</strong></summary>
 
   ### Overview :sunglasses:
 
