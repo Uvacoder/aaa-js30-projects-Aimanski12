@@ -7,11 +7,21 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>10. Tralse</strong></summary>
+  <summary><strong>10. Tralse Quiz</strong></summary>
 
   ### Overview :sunglasses:
 
-  > Coming Soon!
+  > This is a True or False App. It is run on a ReactJS. It is an app that allows the user to play a true or false quiz about general informations about science, math, sports, music, politics, history, etc. This app uses resources [Open Trivia Database](https://opentdb.com/api_config.php). A free JSON API for programming projects. It does not require API tokens when you use it.
+
+  [View it live from your browser.](http://bit.ly/2NXdPON) Deployed with Firebase<br>
+  [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj10).<br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be) <br>
+
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react10-tralse.gif" alt="screen shot">
+    </a>
+  </div>
 
 </details> 
 
