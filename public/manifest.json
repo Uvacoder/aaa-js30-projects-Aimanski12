@@ -1,0 +1,15 @@
+{
+  "short_name": "Aiman Adlawan True or False Game",
+  "name": "Aiman Adlawan True or False Game",
+  "icons": [
+    {
+      "src": "js.png",
+      "sizes": "444x441",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
