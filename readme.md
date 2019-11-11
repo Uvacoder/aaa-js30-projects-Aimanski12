@@ -1,4 +1,4 @@
-## Tralse
+## Tralse Quiz
 
 > This is a True or False App. It is run on a ReactJS. It is an app that allows the user to play a true or false quiz about general informations about science, math, sports, music, politics, history, etc. This app uses resources [Open Trivia Database](https://opentdb.com/api_config.php). A free JSON API for programming projects. It does not require API tokens when you use it.
 
