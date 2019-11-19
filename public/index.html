@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/aiman.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <!-- description -->
+    <meta name="description" content="Aiman Adlawan React App" />
+    <!-- keywords -->
+    <meta name="keywords" content="Aiman Adlawan React App Multiple Quiz" />
+    <!-- author -->
+    <meta name="author" content="Aiman Adlawan" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>Aimanski | Knowledge Quiz</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+  <script src="https://cdn.jsdelivr.net/npm/ua-parser-js@0/dist/ua-parser.min.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script>
+    let parser = new UAParser()
+    const user = {
+      time: new Date().toLocaleString(),
+      result: parser.getResult()
+    }
+
+    const day = new Date
+    const yr = day.getFullYear()
+    const date = day.getDate()
+    const mon = day.getMonth() + 1
+
+    function filter(val) {
+      if (val < 10) {
+        val = ('0' + val).slice(-2)
+      }
+      return val
+    }
+    const theDate = yr + ' ' + filter(mon) + ' ' + filter(date)
+    axios.post('https://js-app-tracker.firebaseio.com/react11-knowledgequiz/' + theDate + '.json', user).then(res => {
+        return (res.data)
+      })
+      .catch(err => console.log(err.data))
+  </script>
+</html>
