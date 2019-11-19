@@ -2,11 +2,11 @@
 
 > This app is a knowledge quiz app. It asks quiestions about general informations and you just have to pick you answers from the options provided. It uses its data from [Open Trivia Database](https://opentdb.com/api_config.php) - an open source database 
 
-[View it live from your browser.](http://bit.ly/2NXdPON) Deployed with Firebase<br>
-[Watch Short Video Clip](https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be) <br>
+[View it live from your browser.](http://bit.ly/2QAur1E) Deployed with Firebase<br>
+[Watch Short Video Clip](https://youtu.be/ngMWwH9n-lA) <br>
 
 <div float="left">
-  <a href="https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be">
+  <a href="https://youtu.be/ngMWwH9n-lA">
     <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react11-knowledgequiz.gif" alt="screen shot">
   </a>
 </div>
