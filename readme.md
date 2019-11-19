@@ -12,7 +12,17 @@ The projects are listed from the latest. :arrow_up:
 
   ### Overview :sunglasses:
 
-  > Coming Soon!
+  > This app is a knowledge quiz app. It asks quiestions about general informations and you just have to pick you answers from the options provided. It uses its data from [Open Trivia Database](https://opentdb.com/api_config.php) - an open source database 
+
+  [View it live from your browser.](http://bit.ly/2QAur1E) Deployed with Firebase<br>
+  [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj11).<br>
+  [Watch Short Video Clip](https://youtu.be/ngMWwH9n-lA) <br>
+
+  <div float="left">
+    <a href="https://youtu.be/ngMWwH9n-lA">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react11-knowledgequiz.gif" alt="screen shot">
+    </a>
+  </div>
 
 </details> 
 
