@@ -7,7 +7,7 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>12. Giff Searcher</strong></summary>
+  <summary><strong>12. Giphy Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
