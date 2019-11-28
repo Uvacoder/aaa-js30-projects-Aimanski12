@@ -7,11 +7,21 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>12. Giphy Searcher</strong></summary>
+  <summary><strong>12. Giff Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
-  > Coming Soon!
+  > This is a ReactJS website is allow the user to search giff images and files. It uses the [Giphy API](https://developers.giphy.com/), an online database and search engine that allows users to search for and share short looping videos with no sound, that resemble animated GIF files.
+
+  [View it live from your browser.](http://bit.ly/33orX9q) Deployed with Firebase<br>
+  [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj12).<br>
+  [Watch Short Video Clip](https://youtu.be/Fiy8VBEon5g) <br>
+
+  <div float="left">
+    <a href="https://youtu.be/Fiy8VBEon5g">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react12-giffsearch.gif" alt="screen shot">
+    </a>
+  </div>
 
 </details> 
 
