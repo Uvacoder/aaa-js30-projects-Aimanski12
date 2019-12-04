@@ -7,7 +7,7 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>13. Twitter Hashtag Search</strong></summary>
+  <summary><strong>13. Twitter Hashtag Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
