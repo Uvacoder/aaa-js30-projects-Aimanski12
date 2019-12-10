@@ -11,7 +11,17 @@ The projects are listed from the latest. :arrow_up:
 
   ### Overview :sunglasses:
 
-  > Coming Soon!
+> This app allows the user to search hashtagged words from [Twitter](https://twitter.com). The app requires APIKeys and Access Token provided by Twitter. 
+
+[View it live from your browser.](http://bit.ly/2RwP9jx) Deployed with Firebase<br>
+[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj13).<br>
+[Watch Short Video Clip](https://youtu.be/EPNche7kZBQ) <br>
+
+<div float="left">
+  <a href="https://youtu.be/EPNche7kZBQ">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react13-tweetersearch.gif" alt="screen shot">
+  </a>
+</div>
 
 </details> 
 
