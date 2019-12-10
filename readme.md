@@ -38,7 +38,7 @@ $ git branch proj12
 $ npm install
 ```
 
-after installing the application modules, go to [Giphy API Developers](https://developers.giphy.com/) and signup for you app token. Once you get your token, go to `config.js` file and enter your token on the APIKey.
+after installing the application modules, go to [Twitter Developers API](https://developer.twitter.com/en/docs) to signup you app token. Once you get your token, go to `./twitterConfig.js` file and enter your token on the APIKeys.
 
 then run the application with the live-server or you can type;
 
