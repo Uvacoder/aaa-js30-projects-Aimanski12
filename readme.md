@@ -7,21 +7,30 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
+  <summary><strong>14. Some Animation</strong></summary>
+
+  ### Overview :sunglasses:
+
+  > Coming Soon!
+
+</details> 
+
+<details>
   <summary><strong>13. Twitter Hashtag Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
-> This app allows the user to search hashtagged words from [Twitter](https://twitter.com). The app requires APIKeys and Access Token provided by Twitter. 
+  > This app allows the user to search hashtagged words from [Twitter](https://twitter.com). The app requires APIKeys and Access Token provided by Twitter. 
 
-[View it live from your browser.](http://bit.ly/2RwP9jx) Deployed with Firebase<br>
-[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj13).<br>
-[Watch Short Video Clip](https://youtu.be/EPNche7kZBQ) <br>
+  [View it live from your browser.](http://bit.ly/2RwP9jx) Deployed with Firebase<br>
+  [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj13).<br>
+  [Watch Short Video Clip](https://youtu.be/EPNche7kZBQ) <br>
 
-<div float="left">
-  <a href="https://youtu.be/EPNche7kZBQ">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react13-tweetersearch.gif" alt="screen shot">
-  </a>
-</div>
+  <div float="left">
+    <a href="https://youtu.be/EPNche7kZBQ">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react13-tweetersearch.gif" alt="screen shot">
+    </a>
+  </div>
 
 </details> 
 
