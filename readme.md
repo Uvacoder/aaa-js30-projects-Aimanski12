@@ -11,7 +11,17 @@ The projects are listed from the latest. :arrow_up:
 
   ### Overview :sunglasses:
 
-  > Coming Soon!
+> Animations are one of the important things that bring more life to your website. So I have decided to create this app with some animations. I am using [React Reveal](https://www.react-reveal.com/) a lightweight react animation library. 
+
+[View it live from your browser.](http://bit.ly/2M1xA7s) Deployed with Firebase<br>
+[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj14).<br>
+[Watch Short Video Clip](https://youtu.be/GiUuTDm982g) <br>
+
+<div float="left">
+  <a href="https://youtu.be/GiUuTDm982g">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react14-animations.gif" alt="screen shot">
+  </a>
+</div>
 
 </details> 
 
