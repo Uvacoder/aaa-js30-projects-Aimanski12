@@ -1,0 +1,148 @@
+.App {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Nanum Gothic';
+}
+
+.AppContainer {
+  /* background-color: #282c34; */
+  background: #393d44;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  /* color: white; */
+  color: #c7c9cb;
+  text-shadow: 3px 3px 3px #212429;
+}
+
+
+.title h1{
+  font-size: 1.5em;
+  margin: 0 0 5px 0;
+  margin-top: 20px;
+}
+
+.title p {
+  font-size: .65em;
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.inputArea{
+  width: 420px;
+  height: 30px;
+  box-shadow: 5px 5px 3px #212429;
+}
+
+.inputArea input{
+  background: #ededed;
+  height: 30px;
+  line-height: 30px;
+  font-size: .51em;
+}
+
+.inputArea input:hover{
+  background: #e2e4e7;
+  cursor: pointer;
+}
+
+.inputArea .inputBtn{
+  height: 30px;
+  line-height: 30px;
+}
+
+input:focus {
+  outline: none
+}
+
+.pexels {
+  color: #c7c9cb;
+}
+
+.pexels:hover {
+  cursor: pointer;
+  color: #7497b8;
+  text-decoration: none;
+}
+
+.inputBtn span{
+  font-size: .55em;
+  text-shadow: none;
+}
+
+.inputBtn span:hover {
+  cursor: pointer;
+  background: #cbcfd2;
+}
+
+.eachRow{
+  margin-bottom: 15px;
+}
+
+.row img{
+  border-radius: 4px;
+  width: 100%;
+  box-shadow: 8px 8px 8px #121519;
+}
+
+.eachRow:hover {
+  opacity: .6;
+  cursor: pointer;
+}
+
+
+.noSearch{
+  margin-top: 50px;
+}
+
+.noSearch h1 {
+  font-size: 0.9em;
+}
+
+
+.selectedPhoto {
+  margin-top: 15px;
+  /* background: red; */
+}
+
+.selectedPhoto .text {
+  margin-top: 10px;
+  font-size: .62em;
+  /* text-align: left; */
+  /* margin-left: 15px; */
+  /* background: teal; */
+}
+
+.text p{
+  padding: 3px 0;
+  margin: 0;
+}
+
+.text b, .text p b a {
+  color: #e1c9a5
+}
+
+.text b:hover, .text p b a:hover{
+  color: #f1e5d5;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.text button {
+  margin-top: 5px;
+  height: 30px;
+  font-size: .75em;
+  color: gray;
+  box-shadow: 5px 5px 3px #212429;
+}
+
+.text button:hover{
+  cursor: pointer;
+  background: #cbcfd2;
+}
+
+
