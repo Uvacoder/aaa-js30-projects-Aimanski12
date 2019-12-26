@@ -3,10 +3,10 @@
 > I want to create an app that searches photos on the internet. I found [Pexels.com](https://www.pexels.com/) a free stock photos you can query for free. So I decided to build one app like this. 
 
 [View it live from your browser.](http://bit.ly/2EWAKpn) Deployed with Firebase<br>
-[Watch Short Video Clip]() <br>
+[Watch Short Video Clip](https://youtu.be/pQ3YLyzhd_0) <br>
 
 <div float="left">
-  <a href="">
+  <a href="https://youtu.be/pQ3YLyzhd_0">
     <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react15-%20photo%20search.gif" alt="screen shot">
   </a>
 </div>
