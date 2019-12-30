@@ -3,10 +3,10 @@
 > I created this website to help users search for books they want to read. All the books datta from this app are taken from [Google Books](https://books.google.com/). It contains a huge amount of data about retailed books and publications and it is free to use.
 
 [View it live from your browser.](http://bit.ly/39ohIpO) Deployed with Firebase<br>
-[Watch Short Video Clip]() <br>
+[Watch Short Video Clip](https://youtu.be/mjBNXKLQsRU) <br>
 
 <div float="left">
-  <a href="">
+  <a href="https://youtu.be/mjBNXKLQsRU">
     <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react16-photo-search.gif" alt="screen shot">
   </a>
 </div>
