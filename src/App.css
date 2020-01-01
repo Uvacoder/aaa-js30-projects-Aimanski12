@@ -1,0 +1,132 @@
+.App {
+  text-align: center;
+}
+
+.app_container {
+  background-image: linear-gradient(to top right,#bddcfa, #618fba, 
+  #32608a, #18456e);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: red;
+}
+
+.formContent{
+  width: 350px;
+  color: orange;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.label{
+  color: #ef9b00;
+  font-size: 1.5em;
+  font-weight: 500;
+  text-shadow: 2px 2px 2px #4c3100;
+}
+
+.formItem{
+  background: red;
+  margin: 0px;
+  padding: 0px;
+}
+
+.inputItem{
+  line-height: 1em;
+  margin-bottom: 3px !important;
+}
+
+.inputArea {
+  background: #fbf0db;
+  font-size: .9em;
+  
+}
+
+.inputArea:hover{
+  background: #ece1cd;
+}
+
+.hover{
+  cursor: pointer;
+}
+
+.inputAppend{
+  background: #e5d6ba;
+}
+
+.inputAppend i{
+  font-size: 15px;
+}
+
+.inputAppend:hover{
+  background: #d7c8ab;
+}
+
+.inputArea:focus{
+  background: #f7e5c2;
+  border: none
+}
+
+.options{
+  margin: 0px 0px 3px 0;
+  padding-top: 0px;
+  height: 35px;
+  line-height: 35px;
+  font-size: 0.87em;
+  padding-top: 5px;
+}
+
+.list{
+  height: 38px;
+  line-height: 38px;
+  padding: 0 5px 0 0;
+  font-size: .9em;
+  color: #925f00;
+  font-weight: 600;
+  background: #fbf0db;
+  margin-bottom: 3px;
+}
+
+.list button{
+  font-size: 18px;
+  margin-top: 6px;
+}
+.list button:hover{
+  background: none;
+}
+
+
+.remove-btn {
+  margin-right: 0.5rem;
+}
+
+.item-appear {
+  opacity: 0;
+}
+
+.item-appear-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.item-enter {
+  opacity: 0;
+}
+
+.item-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+
+.item-exit {
+  opacity: 1;
+}
+
+.item-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-in;
+}
