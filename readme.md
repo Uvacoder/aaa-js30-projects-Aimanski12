@@ -7,6 +7,25 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
+  <summary><strong>17. Gradient and Animation</strong></summary>
+
+  ### Overview :sunglasses:
+
+> In this app I am making a simple TodoList that renders animation using [CSSTransition](http://reactcommunity.org/react-transition-group/css-transition) and [TransitionGroup](http://reactcommunity.org/react-transition-group/transition-group) library from ReactJS and with diffent background for each list to generate a gradient look list.
+
+[View it live from your browser.](http://bit.ly/2rHXQNk) Deployed with Firebase<br>
+[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj17).<br>
+[Watch Short Video Clip](https://youtu.be/fb0GsdBwlfA) <br>
+
+<div float="left">
+  <a href="https://youtu.be/fb0GsdBwlfA">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react17-animation-gradient.gif" alt="screen shot">
+  </a>
+</div>
+
+</details>
+
+<details>
   <summary><strong>16. Book Searcher</strong></summary>
 
   ### Overview :sunglasses:
@@ -14,6 +33,7 @@ The projects are listed from the latest. :arrow_up:
 > I created this website to help users search for books they want to read. All the books datta from this app are taken from [Google Books](https://books.google.com/). It contains a huge amount of data about retailed books and publications and it is free to use.
 
 [View it live from your browser.](http://bit.ly/39ohIpO) Deployed with Firebase<br>
+[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj16).<br>
 [Watch Short Video Clip](https://youtu.be/mjBNXKLQsRU) <br>
 
 <div float="left">
