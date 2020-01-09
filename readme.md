@@ -1,6 +1,6 @@
 ## Currency Converter
 
-> I made this currency converter app are one of the app ideas that really interest me most. I build this app to see how does the currency app works under the hood. All the data from this app are taken from [API Frankfurter](https://www.frankfurter.app/) and [Rest Countries](https://restcountries.eu/).
+> Currency converter app are one of the app ideas that really interests me most. I build this app to see how does the currency app works under the hood. Thank you for looking into this repo. All the data from this app are taken from [API Frankfurter](https://www.frankfurter.app/) and [Rest Countries](https://restcountries.eu/).
 
 [View it live from your browser.](http://bit.ly/2tFL0A3) Deployed with Firebase<br>
 [Watch Short Video Clip]() <br>
