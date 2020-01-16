@@ -7,7 +7,7 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>19. Currency Calculator App</strong></summary>
+  <summary><strong>19. Currency Calculator</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -16,7 +16,7 @@ The projects are listed from the latest. :arrow_up:
 </details>
 
 <details>
-  <summary><strong>18. Currency Converter App</strong></summary>
+  <summary><strong>18. Currency Converter</strong></summary>
 
   ### Overview :sunglasses:
 
