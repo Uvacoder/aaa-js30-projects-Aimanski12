@@ -3,10 +3,10 @@
 > From the last project, I added a [React Router](https://reacttraining.com/react-router/) and integrated a currency calculator app for this project. Thank you for looking into this repo. All the data from this app are taken from [API Frankfurter](https://www.frankfurter.app/) and [Rest Countries](https://restcountries.eu/).
 
 [View it live from your browser.](http://bit.ly/2tFL0A3) Deployed with Firebase<br>
-[Watch Short Video Clip]() <br>
+[Watch Short Video Clip](https://youtu.be/MwPo-bn6mZk) <br>
 
 <div float="left">
-  <a href="">
+  <a href="https://youtu.be/MwPo-bn6mZk">
     <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react19-currencycalc.gif" alt="screen shot">
   </a>
 </div>
