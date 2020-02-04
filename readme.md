@@ -4,10 +4,10 @@
 I also sketched designed the app using [Figma](https://www.figma.com/).
 
 [View it live from your browser.](http://bit.ly/2vQAx5Q) Deployed with Firebase<br>
-[Watch Short Video Clip]() <br>
+[Watch Short Video Clip](https://youtu.be/mIHSk8UxET4) <br>
 
 <div float="left">
-  <a href="">
+  <a href="https://youtu.be/mIHSk8UxET4">
     <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react20-currency.gif" alt="screen shot">
   </a>
 </div>
