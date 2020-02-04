@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  height: 900px;
+  background: url('/img/background1.png') no-repeat center center scroll;
+}
+
+@media(max-width: 768px) {
+  .header {
+    background: url('/img/background2.png') no-repeat center center scroll;
+    height: 768px;
+  }
+}
+
+@media(max-width: 568px) {
+  .header {
+    background: url('/img/background3.png') no-repeat center center scroll;
+    height: 568px;
+  }
+}

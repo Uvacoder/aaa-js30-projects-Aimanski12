@@ -1,0 +1,294 @@
+.converter {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.converter .container {
+  margin-top: 17%;
+  height: 55vh;
+  width: 85%;
+  border-radius: 10px;
+}
+
+.converter .header {
+  background: none;
+  text-align: center;
+  height: 90px;
+}
+
+.calc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 820px;
+  height: 230px;
+  background: linear-gradient(29.44deg, rgba(35, 15, 9, 0.6) 0%, rgba(26, 15, 13, 0.6) 100%);
+  border-radius: 21px;
+  margin: 0 auto
+}
+
+.calc_container{
+  width: 40%;
+  height: 160px;
+  background: #EFF0F0;
+  float: left;
+  border-radius: 5px;
+  color: #403C3C;
+}
+
+.calc_container .select {
+  margin-bottom: 0 !important;
+  width: 100%;
+}
+
+.select select{ 
+  font-size: 0.95em;
+  border: none;
+}
+
+.calc_container .labels {
+  height: 40px;
+}
+
+.labels_left{
+  width: 40%;
+  float: left;
+  height: 100%;
+}
+
+.labels_right {
+  width: 60%;
+  float: left;
+  height: 100%;
+}
+
+.labels_left h1 {
+  padding-left: 15px;
+  font-size: 1.2em;
+  line-height: 40px;
+  float: left;
+  font-weight: 600;
+}
+
+.labels_left img {
+  margin: 10px 0 0 10px;
+  width: 35px
+}
+
+.labels_right p{
+  text-align: right;
+  font-size: 0.8em;
+  line-height: 40px;
+  font-weight: 600;
+  padding-right: 10px;
+}
+
+.input_amount {
+  height: 50px;
+}
+
+.input_amount input{
+  height: 100%;
+  width: 95%;
+  margin: 0 2.5%;
+  border: none;
+  text-align: right;
+  padding-right: 4px;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #706f6f;
+}
+
+.input_amount input:focus {
+  outline: none;
+}
+
+.currency_ta {
+  height: 30px;
+  width: 100%;
+}
+
+.currency_ta p{
+  line-height: 30px;
+  width: 50%;
+  float: left;
+  font-size: 0.7em;
+  text-align: center;
+}
+
+@media(max-width: 1000px) {
+  .converter .container {
+    margin-top: 23%;
+    height: 390px;
+  }
+
+  .converter .header {
+    margin-top: 10px
+  }
+  .converter .header h1 {
+    font-size: 1.6em;
+    font-weight: 600;
+  }
+  .converter .header p {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 0.9em;
+  }
+
+  .select select {
+    font-size: 0.9em;
+  }
+
+  .calc {
+    width: 720px;
+    height: 230px;
+    
+    border-radius: 14px;
+  }
+
+  .calc_container {
+    width: 43%;
+  }
+
+  .labels_left h1 {
+    font-size: 1.15em;
+  }
+
+  .labels_left img {
+    margin: 9px 0 0 10px;
+  }
+  .labels_right p {
+    font-size: 0.73em;
+  }
+  .currency_ta p {
+    font-size: 0.65em;
+    font-weight: bold;
+  }
+}
+
+
+@media(max-width: 990px) {
+  .calc {
+    width: 690px;
+  }
+}
+
+@media(max-width: 850px) {
+  .calc {
+    width: 600px;
+  }
+  .labels_left h1 {
+    font-size: 1.05em;
+  }
+
+  .labels_left img {
+    margin: 10px 0 0 6px;
+    width: 35px
+  }
+  .labels_right p {
+    font-size: 0.60em;
+  }
+}
+
+@media(max-width: 768px) {
+  .converter .container {
+    margin-top: 23%;
+    height: 520px;
+  }
+  .converter .header h1 {
+    font-size: 1.4em;
+    font-weight: 500;
+  }
+  .converter .header p {
+    width: 75%;
+    margin: 0 auto;
+    font-size: 0.8em;
+  }
+  .calc {
+    flex-direction: column;
+    height: 400px;
+    width: 450px;
+  }
+  .calc_container {
+    width: 82%;
+  }
+  .labels_left h1 {
+    font-size: 1.1em;
+  }
+  .labels_left img {
+    margin: 10px 0 0 10px;
+    width: 39px
+  }
+}
+
+@media(max-width: 568px) {
+  .converter .container {
+    margin-top: 13%;
+    height: 490px;
+  }
+  .converter .header h1 {
+    font-size: 1.4em;
+  }
+  .converter .header p {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 0.7em;
+  }
+  .calc {
+    width: 100%;
+    height: 380px;
+  }
+  .calc_container {
+    width: 82%;
+    height: 160px;
+  }
+}
+
+@media(max-width: 440px) {
+  .converter .container {
+    margin-top: 15%;
+  }
+}
+
+@media(max-width: 440px) {
+  .labels_left h1 {
+    font-size: 0.9em;
+  }
+  .labels_left img {
+    margin: 12px 0 0 8px;
+    width: 30px
+  }
+  .currency_ta p {
+    font-size: 0.55em;
+  }
+}
+
+@media(max-width: 350px) {
+  .converter .container {
+    margin-top: 16%;
+  }
+  .converter .header h1 {
+    font-size: 1.3em;
+  }
+  .converter .header p {
+    width: 80%;
+    font-size: 0.6em;
+  }
+  .labels_left h1 {
+    font-size: 0.8em;
+  }
+  .labels_left img {
+    margin: 12px 0 0 8px;
+    width: 25px
+  }
+  .labels_right p {
+    font-size: 0.5em;
+  }
+  .currency_ta p {
+    font-size: 0.55em;
+  }
+}
