@@ -7,11 +7,23 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>20. New York Times</strong></summary>
+  <summary><strong>20. Currency Converter in full webite</strong></summary>
 
-  ### Overview :sunglasses:
+   ### Overview :sunglasses:
 
-> Coming Soon!
+> In this project, I have created a full website application from the currency app that I have created on the two project. This website is fully responsive and it is also using the [React Router](https://reacttraining.com/react-router/) to its navigation. This webapp is also using [API Frankfurter](https://www.frankfurter.app/) and [Rest Countries](https://restcountries.eu/) APIs.
+I also sketched designed the app using [Figma](https://www.figma.com/).
+
+[View it live from your browser.](http://bit.ly/2vQAx5Q) Deployed with Firebase<br>
+[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj20).<br>
+[Watch Short Video Clip](https://youtu.be/mIHSk8UxET4) <br>
+
+
+<div float="left">
+  <a href="https://youtu.be/mIHSk8UxET4">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react20-currency.gif" alt="screen shot">
+  </a>
+</div>
 
 </details>
 
