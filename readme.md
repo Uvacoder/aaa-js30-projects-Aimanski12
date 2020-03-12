@@ -7,7 +7,7 @@ Hello and welcome to the Github repo of my React and React Native Projects. This
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>21. New York Times</strong></summary>
+  <summary><strong>21. Animations</strong></summary>
 
    ### Overview :sunglasses:
 
