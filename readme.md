@@ -7,7 +7,27 @@ Hello and welcome to the Github repo of my Web Development Projects. This houses
 The projects are listed from the latest. :arrow_up:
 
 <details>
-  <summary><strong>50. Currency Converter in full website</strong></summary>
+  <summary><strong>50. Calculator<strong></summary>
+  
+  ### OverView 
+  
+  > I always want to build my own calculator app and in this project, I have buid one. It can compute 21 digits or more from the decimal point. It can also handle huge numbers and return an exponent. 
+
+  [View it live from your browser.](http://bit.ly/aimanski-js23-calculator) Deployed with Firebase through ReactJS<br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj23). <br>
+  [Watch Short Video Clip](https://youtu.be/gOpke_Eoiac) <br>
+
+  <div float="left">
+    <a href="https://youtu.be/gOpke_Eoiac">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js23-calculator.gif" alt="screen shot">
+    </a>
+  </div>
+
+</details>
+
+
+<details>
+  <summary><strong>49. Currency Converter in full website</strong></summary>
 
    ### Overview :sunglasses:
 
@@ -28,7 +48,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>49. Currency Calculator App</strong></summary>
+  <summary><strong>48. Currency Calculator App</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -47,7 +67,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>48. Currency Converter</strong></summary>
+  <summary><strong>47. Currency Converter</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -66,7 +86,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>47. Gradient and Animation</strong></summary>
+  <summary><strong>46. Gradient and Animation</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -85,7 +105,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>46. Book Searcher</strong></summary>
+  <summary><strong>45. Book Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -104,7 +124,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>45. Photo Searcher</strong></summary>
+  <summary><strong>44. Photo Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -123,7 +143,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>44. Some Animation</strong></summary>
+  <summary><strong>43. Some Animation</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -142,7 +162,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details> 
 
 <details>
-  <summary><strong>43. Twitter Hashtag Searcher</strong></summary>
+  <summary><strong>42. Twitter Hashtag Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -161,7 +181,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details> 
 
 <details>
-  <summary><strong>42. Giff Searcher</strong></summary>
+  <summary><strong>41. Giff Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -180,7 +200,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details> 
 
 <details>
-  <summary><strong>41. Knowledge Quiz</strong></summary>
+  <summary><strong>40. Knowledge Quiz</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -200,7 +220,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 
 
 <details>
-  <summary><strong>40. Tralse Quiz</strong></summary>
+  <summary><strong>39. Tralse Quiz</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -219,7 +239,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details> 
 
 <details>
-  <summary><strong>39. Video Search</strong></summary>
+  <summary><strong>38. Video Search</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -240,7 +260,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 
 
 <details>
-<summary><strong>38. Multi-todo List App</strong></summary>
+<summary><strong>37. Multi-todo List App</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -259,7 +279,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 
 
 <details>
-<summary><strong>37. Weather App</strong></summary>
+<summary><strong>36. Weather App</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -278,7 +298,7 @@ This is a simple weather app that allows you to check weather conditions from an
 
 
 <details>
-<summary><strong>36. Barcode Scanner</strong></summary>
+<summary><strong>35. Barcode Scanner</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -299,7 +319,7 @@ Barcode scanners are one of the applications that amazes me. So, I have decided 
 </details>
 
 <details>
-<summary><strong>35. Camera of React Native </strong></summary>
+<summary><strong>34. Camera of React Native </strong></summary>
 
 ### Overview :sunglasses:
 
@@ -318,7 +338,7 @@ I was trying to play some api's where I can render a real camera with [React Nat
 </details>
 
 <details>
-<summary><strong>34. Maps of React Native </strong></summary>
+<summary><strong>33. Maps of React Native </strong></summary>
 
 ### Overview :sunglasses:
 
@@ -336,7 +356,7 @@ I wanted to make an application that renders [Google Maps](https://www.google.co
 </details>
 
 <details>
-<summary><strong>33. Animations of React Native</strong></summary>
+<summary><strong>32. Animations of React Native</strong></summary>
 
 ### Overview :sunglasses:
 I was playing with `React Native Animation` library for this project and I learned a lot from it. In this project I learned configure animation using `Animate.timing()` and how to compose animation methods. I also explored how to combine animations values and how to modify the segments of the animation using `interpolate()` and use it to built in methods like `transform`, `translate`, `scale`.
@@ -352,7 +372,7 @@ I was playing with `React Native Animation` library for this project and I learn
 </details>
 
 <details>
-<summary><strong>32. Exploring React Native Navigation</strong></summary>
+<summary><strong>31. Exploring React Native Navigation</strong></summary>
 
 ### Overview :sunglasses:
 This challenge deepens my understanding of `Navigation` functions of [React Native Navigation](https://reactnavigation.org/) version 3.x. Creating tabs using `creareStackNavigator`, `createSwitchNavigator`, `createBottomTabNavigator`, `createAppContainer`, and `createDrawerNavigator` are some of the few things I was exploring in this project.  
@@ -367,7 +387,7 @@ This challenge deepens my understanding of `Navigation` functions of [React Nati
 </details>
 
 <details>
-<summary><strong>31. Photo Sharing App</strong></summary>
+<summary><strong>30. Photo Sharing App</strong></summary>
 
 ### Overview :sunglasses:
 This is a full 
@@ -383,7 +403,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>30. Text Clock<strong></summary>
+  <summary><strong>29. Text Clock<strong></summary>
   
   ### OverView
 
@@ -401,7 +421,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>29. Budget Tracking App<strong></summary>
+  <summary><strong>28. Budget Tracking App<strong></summary>
   
   ### OverView 
   
@@ -421,7 +441,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>28. Horoscope<strong></summary>
+  <summary><strong>27. Horoscope<strong></summary>
   
   ### OverView 
   
@@ -439,7 +459,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>27. Quotes<strong></summary>
+  <summary><strong>26. Quotes<strong></summary>
   
   ### OverView 
   
@@ -457,7 +477,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>26. Drop Ball<strong></summary>
+  <summary><strong>25. Drop Ball<strong></summary>
   
   ### OverView 
   
@@ -475,7 +495,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>25. Bubbles<strong></summary>
+  <summary><strong>24. Bubbles<strong></summary>
   
   ### OverView 
   
@@ -494,7 +514,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>24. Bouncing Particles<strong></summary>
+  <summary><strong>23. Bouncing Particles<strong></summary>
   
   ### OverView 
   
@@ -510,26 +530,6 @@ This is a full
     <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js24-bouncingparticles.gif" alt="screen shot">
   </a>
 </div>
-</details>
-
-
-<details>
-  <summary><strong>23. Calculator<strong></summary>
-  
-  ### OverView 
-  
-  > I always want to build my own calculator app and in this project, I have buid one. It can compute 21 digits or more from the decimal point. It can also handle huge numbers and return an exponent. 
-
-  [View it live from your browser.](http://bit.ly/aimanski-js23-calculator) Deployed with Firebase through ReactJS<br>
-  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj23). <br>
-  [Watch Short Video Clip](https://youtu.be/gOpke_Eoiac) <br>
-
-  <div float="left">
-    <a href="https://youtu.be/gOpke_Eoiac">
-      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js23-calculator.gif" alt="screen shot">
-    </a>
-  </div>
-
 </details>
 
 <details>
