@@ -6,8 +6,67 @@ Hello and welcome to the Github repo of my Web Development Projects. This houses
 
 The projects are listed from the latest. :arrow_up:
 
+
 <details>
-  <summary><strong>50. Calculator<strong></summary>
+  <summary><strong>50. Rock Paper Scissors<strong></summary>
+  
+  ### OverView 
+  
+  > Rock Paper Scissors is one of the most common games everybody used to play when they were young. I made one app like so using javascript and so happy about how the app came out.
+
+[View it live from your browser.](http://bit.ly/aimanski-js22-rockpaperscissors) Deployed with Firebase through ReactJS<br>
+[View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj22). <br>
+[Watch Short Video Clip](https://www.youtube.com/watch?v=EFO3KtdWzew) <br>
+
+
+  <div float="left">
+  <a href="https://www.youtube.com/watch?v=EFO3KtdWzew">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js22-rockpaperscissors.gif" alt="screen shot">
+  </a>
+</div>
+</details>
+
+
+<details>
+  <summary><strong>49. Tic Tac Toe<strong></summary>
+  
+  ### OverView 
+  
+  > This is a Tic Tac Toe App. A board game that I used to play with when I was a little boy. I was inspired to build this app to test my Javascript Skills. I was so happy that I was able to make one. 
+
+  [View it live from your browser.](http://bit.ly/aimanski-js20-tictactoe) Deployed with Firebase through ReactJS<br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=f9uBMorXXCg&feature=youtu.be) <br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj20).
+
+
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=f9uBMorXXCg&feature=youtu.be">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js20-tictactoe.gif" alt="screen shot">
+    </a>
+  </div>
+</details>
+
+
+<details>
+  <summary><strong>48. Text Clock<strong></summary>
+  
+  ### OverView
+
+  > I got this idea for this project from Jennifer Dewalt in oe of her 180 website challenge. I had so much fun building this and learned so many things. 
+
+  [View it live from your browser.](http://bit.ly/31O4JZA) Deployed with Firebase through ReactJS<br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj30). <br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=h_YD024VssE&t=35s) <br>
+
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=h_YD024VssE&t=35s">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js30-textcalc.gif" alt="screen shot">
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><strong>47. Calculator<strong></summary>
   
   ### OverView 
   
@@ -27,7 +86,7 @@ The projects are listed from the latest. :arrow_up:
 
 
 <details>
-  <summary><strong>49. Currency Converter in full website</strong></summary>
+  <summary><strong>46. Currency Converter in full website</strong></summary>
 
    ### Overview :sunglasses:
 
@@ -48,7 +107,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>48. Currency Calculator App</strong></summary>
+  <summary><strong>45. Currency Calculator App</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -67,7 +126,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>47. Currency Converter</strong></summary>
+  <summary><strong>44. Currency Converter</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -86,7 +145,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>46. Gradient and Animation</strong></summary>
+  <summary><strong>43. Gradient and Animation</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -96,16 +155,15 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj17).<br>
 [Watch Short Video Clip](https://youtu.be/fb0GsdBwlfA) <br>
 
-<div float="left">
-  <a href="https://youtu.be/fb0GsdBwlfA">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react17-animation-gradient.gif" alt="screen shot">
-  </a>
-</div>
-
+  <div float="left">
+    <a href="https://youtu.be/fb0GsdBwlfA">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react17-animation-gradient.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 <details>
-  <summary><strong>45. Book Searcher</strong></summary>
+  <summary><strong>42. Book Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -115,16 +173,15 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj16).<br>
 [Watch Short Video Clip](https://youtu.be/mjBNXKLQsRU) <br>
 
-<div float="left">
-  <a href="https://youtu.be/mjBNXKLQsRU">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react16-photo-search.gif" alt="screen shot">
-  </a>
-</div>
-
+  <div float="left">
+    <a href="https://youtu.be/mjBNXKLQsRU">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react16-photo-search.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 <details>
-  <summary><strong>44. Photo Searcher</strong></summary>
+  <summary><strong>41. Photo Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -134,16 +191,15 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj15).<br>
 [Watch Short Video Clip](https://youtu.be/pQ3YLyzhd_0) <br>
 
-<div float="left">
-  <a href="https://youtu.be/pQ3YLyzhd_0">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react15-%20photo%20search.gif" alt="screen shot">
-  </a>
-</div>
-
+  <div float="left">
+    <a href="https://youtu.be/pQ3YLyzhd_0">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react15-%20photo%20search.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 <details>
-  <summary><strong>43. Some Animation</strong></summary>
+  <summary><strong>40. Some Animation</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -153,16 +209,15 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj14).<br>
 [Watch Short Video Clip](https://youtu.be/GiUuTDm982g) <br>
 
-<div float="left">
-  <a href="https://youtu.be/GiUuTDm982g">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react14-animations.gif" alt="screen shot">
-  </a>
-</div>
-
+  <div float="left">
+    <a href="https://youtu.be/GiUuTDm982g">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react14-animations.gif" alt="screen shot">
+    </a>
+  </div>
 </details> 
 
 <details>
-  <summary><strong>42. Twitter Hashtag Searcher</strong></summary>
+  <summary><strong>39. Twitter Hashtag Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -177,11 +232,10 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
       <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react13-tweetersearch.gif" alt="screen shot">
     </a>
   </div>
-
 </details> 
 
 <details>
-  <summary><strong>41. Giff Searcher</strong></summary>
+  <summary><strong>38. Giff Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -196,11 +250,10 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
       <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react12-giffsearch.gif" alt="screen shot">
     </a>
   </div>
-
 </details> 
 
 <details>
-  <summary><strong>40. Knowledge Quiz</strong></summary>
+  <summary><strong>37. Knowledge Quiz</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -220,7 +273,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 
 
 <details>
-  <summary><strong>39. Tralse Quiz</strong></summary>
+  <summary><strong>36. Tralse Quiz</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -235,11 +288,10 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
       <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react10-tralse.gif" alt="screen shot">
     </a>
   </div>
-
 </details> 
 
 <details>
-  <summary><strong>38. Video Search</strong></summary>
+  <summary><strong>35. Video Search</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -255,12 +307,11 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
       <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react09-moviesearch.gif" alt="screen shot">
     </a>
   </div>
-
 </details> 
 
 
 <details>
-<summary><strong>37. Multi-todo List App</strong></summary>
+<summary><strong>34. Multi-todo List App</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -279,7 +330,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 
 
 <details>
-<summary><strong>36. Weather App</strong></summary>
+<summary><strong>33. Weather App</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -289,16 +340,16 @@ This is a simple weather app that allows you to check weather conditions from an
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj07).<br>
 [Watch Short Video Clip](https://www.youtube.com/watch?v=_M7zkeqpyD8). <br>
 
-<div float="left">
-  <a href="https://www.youtube.com/watch?v=_M7zkeqpyD8">
-    <img src="https://user-images.githubusercontent.com/32781697/58397784-25027800-8018-11e9-8df8-739d52ddc9f8.gif" alt="screen shot">
-  </a>
-</div>
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=_M7zkeqpyD8">
+      <img src="https://user-images.githubusercontent.com/32781697/58397784-25027800-8018-11e9-8df8-739d52ddc9f8.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 
 <details>
-<summary><strong>35. Barcode Scanner</strong></summary>
+<summary><strong>32. Barcode Scanner</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -311,15 +362,15 @@ Barcode scanners are one of the applications that amazes me. So, I have decided 
 
 [Watch Short Video Clip](https://www.youtube.com/watch?v=RHSBdVFhjZs&feature=youtu.be).
 
-<div float="left">
-  <a href="https://www.youtube.com/watch?v=RHSBdVFhjZs&feature=youtu.be">
-    <img src="https://user-images.githubusercontent.com/32781697/57206082-c56cfb80-6f88-11e9-8d76-a94aef05d1f2.gif" alt="screen shot">
-  </a>
-</div>
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=RHSBdVFhjZs&feature=youtu.be">
+      <img src="https://user-images.githubusercontent.com/32781697/57206082-c56cfb80-6f88-11e9-8d76-a94aef05d1f2.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 <details>
-<summary><strong>34. Camera of React Native </strong></summary>
+<summary><strong>31. Camera of React Native </strong></summary>
 
 ### Overview :sunglasses:
 
@@ -329,16 +380,15 @@ I was trying to play some api's where I can render a real camera with [React Nat
 
 [Watch Short Video Clip](https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be).
 
-<div float="left">
-  <a href="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be">
-    <img src="https://user-images.githubusercontent.com/32781697/56854352-ad4b0b80-68fa-11e9-88d5-cb93e8ce7b79.png" alt="screen shot">
-  </a>
-</div>
-
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=BcZZbDwvVFw&feature=youtu.be">
+      <img src="https://user-images.githubusercontent.com/32781697/56854352-ad4b0b80-68fa-11e9-88d5-cb93e8ce7b79.png" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 <details>
-<summary><strong>33. Maps of React Native </strong></summary>
+<summary><strong>30. Maps of React Native </strong></summary>
 
 ### Overview :sunglasses:
 
@@ -356,7 +406,7 @@ I wanted to make an application that renders [Google Maps](https://www.google.co
 </details>
 
 <details>
-<summary><strong>32. Animations of React Native</strong></summary>
+<summary><strong>29. Animations of React Native</strong></summary>
 
 ### Overview :sunglasses:
 I was playing with `React Native Animation` library for this project and I learned a lot from it. In this project I learned configure animation using `Animate.timing()` and how to compose animation methods. I also explored how to combine animations values and how to modify the segments of the animation using `interpolate()` and use it to built in methods like `transform`, `translate`, `scale`.
@@ -372,22 +422,21 @@ I was playing with `React Native Animation` library for this project and I learn
 </details>
 
 <details>
-<summary><strong>31. Exploring React Native Navigation</strong></summary>
+<summary><strong>28. Exploring React Native Navigation</strong></summary>
 
 ### Overview :sunglasses:
 This challenge deepens my understanding of `Navigation` functions of [React Native Navigation](https://reactnavigation.org/) version 3.x. Creating tabs using `creareStackNavigator`, `createSwitchNavigator`, `createBottomTabNavigator`, `createAppContainer`, and `createDrawerNavigator` are some of the few things I was exploring in this project.  
 
 [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj02).
 
-<div float="left">
-<a href="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif"><img src="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif" title="Project Clip"/></a>
-</div>
-
-  
+  <div float="left">
+  <a href="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif"><img src="https://user-images.githubusercontent.com/32781697/55290964-4d1a8580-539f-11e9-93c2-221486aef6a7.gif" title="Project Clip"/></a>
+  </div>
 </details>
 
+
 <details>
-<summary><strong>30. Photo Sharing App</strong></summary>
+<summary><strong>27. Photo Sharing App</strong></summary>
 
 ### Overview :sunglasses:
 This is a full 
@@ -399,29 +448,12 @@ This is a full
   <div float="left">
     <a href="https://user-images.githubusercontent.com/32781697/55290400-856a9580-5398-11e9-8ebb-785659c2813f.png"><img src="https://user-images.githubusercontent.com/32781697/55290400-856a9580-5398-11e9-8ebb-785659c2813f.png" title="Project Clip"/></a>
   </div>
-
 </details>
 
-<details>
-  <summary><strong>29. Text Clock<strong></summary>
-  
-  ### OverView
 
-  > I got this idea for this project from Jennifer Dewalt in oe of her 180 website challenge. I had so much fun building this and learned so many things. 
-
-  [View it live from your browser.](http://bit.ly/31O4JZA) Deployed with Firebase through ReactJS<br>
-  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj30). <br>
-  [Watch Short Video Clip](https://www.youtube.com/watch?v=h_YD024VssE&t=35s) <br>
-
-<div float="left">
-  <a href="https://www.youtube.com/watch?v=h_YD024VssE&t=35s">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js30-textcalc.gif" alt="screen shot">
-  </a>
-</div>
-</details>
 
 <details>
-  <summary><strong>28. Budget Tracking App<strong></summary>
+  <summary><strong>26. Budget Tracking App<strong></summary>
   
   ### OverView 
   
@@ -441,7 +473,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>27. Horoscope<strong></summary>
+  <summary><strong>25. Horoscope<strong></summary>
   
   ### OverView 
   
@@ -459,7 +491,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>26. Quotes<strong></summary>
+  <summary><strong>24. Quotes<strong></summary>
   
   ### OverView 
   
@@ -477,7 +509,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>25. Drop Ball<strong></summary>
+  <summary><strong>23. Drop Ball<strong></summary>
   
   ### OverView 
   
@@ -495,7 +527,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>24. Bubbles<strong></summary>
+  <summary><strong>22. Bubbles<strong></summary>
   
   ### OverView 
   
@@ -506,15 +538,15 @@ This is a full
   [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj25). <br>
   [Watch Short Video Clip](https://youtu.be/onl5ZQzd1Jw) <br>
 
-<div float="left">
-  <a href="https://youtu.be/onl5ZQzd1Jw">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js25-bubbles.gif" alt="screen shot">
-  </a>
-</div>
+  <div float="left">
+    <a href="https://youtu.be/onl5ZQzd1Jw">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js25-bubbles.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 <details>
-  <summary><strong>23. Bouncing Particles<strong></summary>
+  <summary><strong>21. Bouncing Particles<strong></summary>
   
   ### OverView 
   
@@ -525,35 +557,17 @@ This is a full
   [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj24). <br>
   [Watch Short Video Clip](https://youtu.be/aUPVR2y9b_c) <br>
 
-<div float="left">
-  <a href="https://youtu.be/aUPVR2y9b_c">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js24-bouncingparticles.gif" alt="screen shot">
-  </a>
-</div>
-</details>
-
-<details>
-  <summary><strong>22. Rock Paper Scissors<strong></summary>
-  
-  ### OverView 
-  
-  > Rock Paper Scissors is one of the most common games everybody used to play when they were young. I made one app like so using javascript and so happy about how the app came out.
-
-[View it live from your browser.](http://bit.ly/aimanski-js22-rockpaperscissors) Deployed with Firebase through ReactJS<br>
-[View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj22). <br>
-[Watch Short Video Clip](https://www.youtube.com/watch?v=EFO3KtdWzew) <br>
-
-
   <div float="left">
-  <a href="https://www.youtube.com/watch?v=EFO3KtdWzew">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js22-rockpaperscissors.gif" alt="screen shot">
-  </a>
-</div>
-
+    <a href="https://youtu.be/aUPVR2y9b_c">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js24-bouncingparticles.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
+
+
 <details>
-  <summary><strong>21. Color Picker<strong></summary>
+  <summary><strong>20. Color Picker<strong></summary>
   
   ### OverView 
   
@@ -571,25 +585,7 @@ This is a full
 
 </details>
 
-<details>
-  <summary><strong>20. Tic Tac Toe<strong></summary>
-  
-  ### OverView 
-  
-  > This is a Tic Tac Toe App. A board game that I used to play with when I was a little boy. I was inspired to build this app to test my Javascript Skills. I was so happy that I was able to make one. 
 
-  [View it live from your browser.](http://bit.ly/aimanski-js20-tictactoe) Deployed with Firebase through ReactJS<br>
-  [Watch Short Video Clip](https://www.youtube.com/watch?v=f9uBMorXXCg&feature=youtu.be) <br>
-  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj20).
-
-
-  <div float="left">
-    <a href="https://www.youtube.com/watch?v=f9uBMorXXCg&feature=youtu.be">
-      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js20-tictactoe.gif" alt="screen shot">
-    </a>
-  </div>
-
-</details>
 
 
 <details>
@@ -604,12 +600,11 @@ This is a full
   [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj19).
 
 
-<div float="left">
-  <a href="https://www.youtube.com/watch?v=fdFMdK5l3_0&feature=youtu.be">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js19-bmicalculator.gif" alt="screen shot">
-  </a>
-</div>
-
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=fdFMdK5l3_0&feature=youtu.be">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js19-bmicalculator.gif" alt="screen shot">
+    </a>
+  </div>
 </details>
 
 <details>
