@@ -6,6 +6,18 @@ Hello and welcome to the Github repo of my Web Development Projects. This houses
 
 The projects are listed from the latest. :arrow_up:
 
+<details>
+  <summary><strong>51. Chat-App<strong></summary>
+  
+  ### OverView 
+  
+  > This is a basic chat app made by NodeJS. It uses a real-time bi-directional event-based communication using [Socket.io](https://www.npmjs.com/package/socket.io). The app can be simultaneously used within different devices as long as it remains with the same chat room.
+
+[View it live from your browser.](https://aiman-chatapp.herokuapp.com/)<br>
+[Screenshot](https://github.com/Aimanski12/proj-resource/blob/master/libs/chat-app.png). <br>
+
+</details>
+
 
 <details>
   <summary><strong>50. Rock Paper Scissors<strong></summary>
