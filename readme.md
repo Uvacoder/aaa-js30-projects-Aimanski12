@@ -13,7 +13,8 @@ The projects are listed from the latest. :arrow_up:
   
   > This is a basic chat app made by NodeJS. It uses a real-time bi-directional event-based communication using [Socket.io](https://www.npmjs.com/package/socket.io). The app can be simultaneously used within different devices as long as it remains with the same chat room.
 
-[View it live from your browser.](https://aiman-chatapp.herokuapp.com/)<br>
+  [View it live from your browser.](https://aiman-chatapp.herokuapp.com/)<br>
+  [View project source code](https://github.com/Aimanski12/my-app).<br>
 
   <div float="left">
     <a href="https://www.youtube.com/watch?v=EFO3KtdWzew">
