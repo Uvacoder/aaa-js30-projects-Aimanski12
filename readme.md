@@ -7,6 +7,70 @@ Hello and welcome to the Github repo of my Web Development Projects. This houses
 The projects are listed from the latest. :arrow_up:
 
 <details>
+  <summary><strong>55. Foto-Pics<strong></summary>
+  
+  ### OverView 
+  
+  > I have always wanted to create a project that displays wonderful stock images and videos. But I wanted to make it in a full website and is also presentable and useful. So I decided to build this project to the next level. It is inspired by Pexels.com whose Web APIs are used to run this application. 
+
+  [View it live from your browser.](https://foto-pics.vercel.app)<br>
+  [View project source code](https://github.com/Aimanski12/foto-pics).<br>
+  
+  <div float="left">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react27-foto-pics.gif" alt="screen shot">
+  </div>
+</details>
+
+<details>
+  <summary><strong>54. Radio-Live<strong></summary>
+  
+  ### OverView 
+  
+  > Listening to music while I study makes me focus on things at hand. I always listen to different radio stations all over the world. So, I took a challenge to build a website that allows the user to listen to any FM Radio stations all over the world. 
+
+  > One note that I would like to stress out in this project is that, FM Radio websites streams their live music on different audio formats. Some follows the web standards while others are still using the old audio formats which may or may not work on the users machine. 
+
+  [View it live from your browser.](https://radio-live.vercel.app)<br>
+  [View project source code](https://github.com/Aimanski12/radio-live).<br>
+  
+  <div float="left">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react26-radio-live.gif" alt="screen shot">
+  </div>
+</details>
+
+<details>
+  <summary><strong>53. News-Box<strong></summary>
+  
+  ### OverView 
+  
+  > I always wanted to build a news website as a pet project. I took this challenge and build this website in a different level. After doing a lot of research, I found [The Guardian API](https://open-platform.theguardian.com/) as a good api source to play around with and started building this project. The good thing about this api is that it doesn't need any apikey but it takes a little time to return data. 
+  
+
+  [View it live from your browser.](https://news-box.vercel.app)<br>
+  [View project source code](https://github.com/Aimanski12/news-room).<br>
+  
+  <div float="left">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react25-news-box.gif" alt="screen shot">
+  </div>
+</details>
+
+<details>
+  <summary><strong>52. Movie-Box<strong></summary>
+  
+  ### OverView 
+  
+  > This website allows the user to search movies produced from all over the world. It features top-rated, upcoming, popular released movies and many more. It also allows searching movies by genre and on-air tv shows and download movie posters. You can also search actors and actresses movies and stats.
+
+  [View it live from your browser.](http://movie-box-site.vercel.app)<br>
+  [View project source code](https://github.com/Aimanski12/movie-box).<br>
+  
+  <div float="left">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react24-movie-box.gif" alt="screen shot">
+  </div>
+</details>
+
+
+<details>
   <summary><strong>51. Chat-App<strong></summary>
   
   ### OverView 
