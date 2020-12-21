@@ -6,6 +6,22 @@ Hello and welcome to the Github repo of my Web Development Projects. This houses
 
 The projects are listed from the latest. :arrow_up:
 
+
+<details>
+  <summary><strong>56. Book-Worm<strong></summary>
+  
+  ### OverView 
+  
+  > This is a full application website for searching books from various categories and genres and view book description, author, pages and many more. This website is using [Google Books API](https://developers.google.com/books/docs/overview) as its source data.
+
+  View this on your browser [live](https://book-worm.vercel.app).<br>
+  [View project source code](https://github.com/Aimanski12/book-worm).<br>
+  
+  <div float="left">
+    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react28-ezgif.com-gif-maker.gif" alt="screen shot">
+  </div><br>
+</details>
+
 <details>
   <summary><strong>55. Foto-Pics<strong></summary>
   
