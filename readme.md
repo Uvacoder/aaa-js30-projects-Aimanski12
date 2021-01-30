@@ -105,27 +105,48 @@ The projects are listed from the latest. :arrow_up:
 
 
 <details>
+
   <summary><strong>50. Rock Paper Scissors<strong></summary>
   
   ### OverView 
   
   > Rock Paper Scissors is one of the most common games everybody used to play when they were young. I made one app like so using javascript and so happy about how the app came out.
 
-[View it live from your browser.](http://bit.ly/aimanski-js22-rockpaperscissors) Deployed with Firebase through ReactJS<br>
-[View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj22). <br>
-[Watch Short Video Clip](https://www.youtube.com/watch?v=EFO3KtdWzew) <br>
-
+  [View it live from your browser.](http://bit.ly/aimanski-js22-rockpaperscissors) Deployed with Firebase through ReactJS<br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj22). <br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=EFO3KtdWzew) <br>
 
   <div float="left">
-  <a href="https://www.youtube.com/watch?v=EFO3KtdWzew">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js22-rockpaperscissors.gif" alt="screen shot">
-  </a>
-</div>
+    <a href="https://www.youtube.com/watch?v=EFO3KtdWzew">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js22-rockpaperscissors.gif" alt="screen shot">
+    </a>
+  </div>
+
 </details>
 
 
 <details>
-  <summary><strong>49. Tic Tac Toe<strong></summary>
+  <summary><strong>49. Seven Segment Display<strong></summary>
+  
+  ### OverView :sunglasses:
+
+  > Seven Segment Display or SSD is a common display design for electronic devices. I build one like this to understand its core concepts and visualization structure and why it is called seven segment. I enjoyed and learned a lot in building this project. 
+
+  [View it live from your browser.](http://bit.ly/aiman-js11-sevensegment) Deployed with Firebase through ReactJS<br>
+  [Watch Short Video Clip](https://youtu.be/TyO07BxubSg) <br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj11).
+
+  <div float="left">
+    <a href="https://youtu.be/TyO07BxubSg">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js11-sevensegment.gif" alt="screen shot">
+    </a>
+  </div>
+
+</details>
+
+
+<details>
+  <summary><strong>48. Tic Tac Toe<strong></summary>
   
   ### OverView 
   
@@ -145,25 +166,45 @@ The projects are listed from the latest. :arrow_up:
 
 
 <details>
-  <summary><strong>48. Text Clock<strong></summary>
-  
-  ### OverView
+  <summary><strong>47. Tralse Quiz</strong></summary>
 
-  > I got this idea for this project from Jennifer Dewalt in oe of her 180 website challenge. I had so much fun building this and learned so many things. 
+  ### Overview :sunglasses:
 
-  [View it live from your browser.](http://bit.ly/31O4JZA) Deployed with Firebase through ReactJS<br>
-  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj30). <br>
-  [Watch Short Video Clip](https://www.youtube.com/watch?v=h_YD024VssE&t=35s) <br>
+  > This is a True or False App. It is run on a ReactJS. It is an app that allows the user to play a true or false quiz about general informations about science, math, sports, music, politics, history, etc. This app uses resources [Open Trivia Database](https://opentdb.com/api_config.php). A free JSON API for programming projects. It does not require API tokens when you use it.
+
+  [View it live from your browser.](http://bit.ly/2NXdPON) Deployed with Firebase<br>
+  [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj10).<br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be) <br>
 
   <div float="left">
-    <a href="https://www.youtube.com/watch?v=h_YD024VssE&t=35s">
-      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js30-textcalc.gif" alt="screen shot">
+    <a href="https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react10-tralse.gif" alt="screen shot">
+    </a>
+  </div>
+</details> 
+
+
+<details>
+  <summary><strong>46. Pamodoro Timer<strong></summary>
+  
+  ### OverView :sunglasses:
+
+  > Pamodoro timer is one of the examples to exercise your javascript skills. So, for this challenge I build one that contains audio effects, start pause and stop button, functionality and audio controls.
+
+  [View it live from your browser.](http://bit.ly/aiman-js10-pamodoro) Deployed with Firebase through ReactJS<br>
+  [Watch Short Video Clip](https://youtu.be/iDkn6D-JbJo) <br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj10).
+
+  <div float="left">
+    <a href="https://youtu.be/iDkn6D-JbJo">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js10-pamodoro.gif" alt="screen shot">
     </a>
   </div>
 </details>
 
+
 <details>
-  <summary><strong>47. Calculator<strong></summary>
+  <summary><strong>45. Calculator<strong></summary>
   
   ### OverView 
   
@@ -183,7 +224,64 @@ The projects are listed from the latest. :arrow_up:
 
 
 <details>
-  <summary><strong>46. Currency Converter in full website</strong></summary>
+  <summary><strong>44. Quotes<strong></summary>
+  
+  ### OverView 
+  
+  > This is an app that generates random quotes from the [Quotable API](https://github.com/lukePeavey/quotable). It is a lightweight API that you can query for free. 
+
+  [View it live from your browser.](http://bit.ly/aimanski-js27-quote) Deployed with Firebase through ReactJS<br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj27). <br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=KBr8aUpVZn0) <br>
+
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=KBr8aUpVZn0">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js27-quotes.gif" alt="screen shot">
+    </a>
+  </div>
+</details>
+
+
+<details>
+  <summary><strong>43. Some Animation</strong></summary>
+
+  ### Overview :sunglasses:
+
+> Animations are one of the important things that bring more life to your website. So I have decided to create this app with some animations. I am using [React Reveal](https://www.react-reveal.com/) a lightweight react animation library. 
+
+[View it live from your browser.](http://bit.ly/2M1xA7s) Deployed with Firebase<br>
+[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj14).<br>
+[Watch Short Video Clip](https://youtu.be/GiUuTDm982g) <br>
+
+  <div float="left">
+    <a href="https://youtu.be/GiUuTDm982g">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react14-animations.gif" alt="screen shot">
+    </a>
+  </div>
+</details> 
+
+
+<details>
+  <summary><strong>42. Text Clock<strong></summary>
+  
+  ### OverView
+
+  > I got this idea for this project from Jennifer Dewalt in oe of her 180 website challenge. I had so much fun building this and learned so many things. 
+
+  [View it live from your browser.](http://bit.ly/31O4JZA) Deployed with Firebase through ReactJS<br>
+  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj30). <br>
+  [Watch Short Video Clip](https://www.youtube.com/watch?v=h_YD024VssE&t=35s) <br>
+
+  <div float="left">
+    <a href="https://www.youtube.com/watch?v=h_YD024VssE&t=35s">
+      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js30-textcalc.gif" alt="screen shot">
+    </a>
+  </div>
+</details>
+
+
+<details>
+  <summary><strong>41. Currency Converter in full website</strong></summary>
 
    ### Overview :sunglasses:
 
@@ -204,7 +302,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>45. Currency Calculator App</strong></summary>
+  <summary><strong>40. Currency Calculator App</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -223,7 +321,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>44. Currency Converter</strong></summary>
+  <summary><strong>39. Currency Converter</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -242,7 +340,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>43. Gradient and Animation</strong></summary>
+  <summary><strong>38. Gradient and Animation</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -260,7 +358,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>42. Book Searcher</strong></summary>
+  <summary><strong>37. Book Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -278,7 +376,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details>
 
 <details>
-  <summary><strong>41. Photo Searcher</strong></summary>
+  <summary><strong>36. Photo Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -295,26 +393,10 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
   </div>
 </details>
 
-<details>
-  <summary><strong>40. Some Animation</strong></summary>
 
-  ### Overview :sunglasses:
-
-> Animations are one of the important things that bring more life to your website. So I have decided to create this app with some animations. I am using [React Reveal](https://www.react-reveal.com/) a lightweight react animation library. 
-
-[View it live from your browser.](http://bit.ly/2M1xA7s) Deployed with Firebase<br>
-[View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj14).<br>
-[Watch Short Video Clip](https://youtu.be/GiUuTDm982g) <br>
-
-  <div float="left">
-    <a href="https://youtu.be/GiUuTDm982g">
-      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react14-animations.gif" alt="screen shot">
-    </a>
-  </div>
-</details> 
 
 <details>
-  <summary><strong>39. Twitter Hashtag Searcher</strong></summary>
+  <summary><strong>35. Twitter Hashtag Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -332,7 +414,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details> 
 
 <details>
-  <summary><strong>38. Giff Searcher</strong></summary>
+  <summary><strong>34. Giff Searcher</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -350,7 +432,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details> 
 
 <details>
-  <summary><strong>37. Knowledge Quiz</strong></summary>
+  <summary><strong>33. Knowledge Quiz</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -369,26 +451,10 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 </details> 
 
 
-<details>
-  <summary><strong>36. Tralse Quiz</strong></summary>
 
-  ### Overview :sunglasses:
-
-  > This is a True or False App. It is run on a ReactJS. It is an app that allows the user to play a true or false quiz about general informations about science, math, sports, music, politics, history, etc. This app uses resources [Open Trivia Database](https://opentdb.com/api_config.php). A free JSON API for programming projects. It does not require API tokens when you use it.
-
-  [View it live from your browser.](http://bit.ly/2NXdPON) Deployed with Firebase<br>
-  [View project source code](https://github.com/Aimanski12/ReactJS_Projects/tree/proj10).<br>
-  [Watch Short Video Clip](https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be) <br>
-
-  <div float="left">
-    <a href="https://www.youtube.com/watch?v=p9yRbI88yXo&feature=youtu.be">
-      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/react/react10-tralse.gif" alt="screen shot">
-    </a>
-  </div>
-</details> 
 
 <details>
-  <summary><strong>35. Video Search</strong></summary>
+  <summary><strong>32. Video Search</strong></summary>
 
   ### Overview :sunglasses:
 
@@ -408,7 +474,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 
 
 <details>
-<summary><strong>34. Multi-todo List App</strong></summary>
+<summary><strong>31. Multi-todo List App</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -427,7 +493,7 @@ I also sketched designed the app using [Figma](https://www.figma.com/).
 
 
 <details>
-<summary><strong>33. Weather App</strong></summary>
+<summary><strong>30. Weather App</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -446,7 +512,7 @@ This is a simple weather app that allows you to check weather conditions from an
 
 
 <details>
-<summary><strong>32. Barcode Scanner</strong></summary>
+<summary><strong>29. Barcode Scanner</strong></summary>
 
 ### Overview :sunglasses:
 
@@ -467,7 +533,7 @@ Barcode scanners are one of the applications that amazes me. So, I have decided 
 </details>
 
 <details>
-<summary><strong>31. Camera of React Native </strong></summary>
+<summary><strong>28. Camera of React Native </strong></summary>
 
 ### Overview :sunglasses:
 
@@ -485,7 +551,7 @@ I was trying to play some api's where I can render a real camera with [React Nat
 </details>
 
 <details>
-<summary><strong>30. Maps of React Native </strong></summary>
+<summary><strong>27. Maps of React Native </strong></summary>
 
 ### Overview :sunglasses:
 
@@ -503,7 +569,7 @@ I wanted to make an application that renders [Google Maps](https://www.google.co
 </details>
 
 <details>
-<summary><strong>29. Animations of React Native</strong></summary>
+<summary><strong>26. Animations of React Native</strong></summary>
 
 ### Overview :sunglasses:
 I was playing with `React Native Animation` library for this project and I learned a lot from it. In this project I learned configure animation using `Animate.timing()` and how to compose animation methods. I also explored how to combine animations values and how to modify the segments of the animation using `interpolate()` and use it to built in methods like `transform`, `translate`, `scale`.
@@ -519,7 +585,7 @@ I was playing with `React Native Animation` library for this project and I learn
 </details>
 
 <details>
-<summary><strong>28. Exploring React Native Navigation</strong></summary>
+<summary><strong>25. Exploring React Native Navigation</strong></summary>
 
 ### Overview :sunglasses:
 This challenge deepens my understanding of `Navigation` functions of [React Native Navigation](https://reactnavigation.org/) version 3.x. Creating tabs using `creareStackNavigator`, `createSwitchNavigator`, `createBottomTabNavigator`, `createAppContainer`, and `createDrawerNavigator` are some of the few things I was exploring in this project.  
@@ -533,7 +599,7 @@ This challenge deepens my understanding of `Navigation` functions of [React Nati
 
 
 <details>
-<summary><strong>27. Photo Sharing App</strong></summary>
+<summary><strong>24. Photo Sharing App</strong></summary>
 
 ### Overview :sunglasses:
 This is a full 
@@ -550,7 +616,7 @@ This is a full
 
 
 <details>
-  <summary><strong>26. Budget Tracking App<strong></summary>
+  <summary><strong>23. Budget Tracking App<strong></summary>
   
   ### OverView 
   
@@ -570,7 +636,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>25. Horoscope<strong></summary>
+  <summary><strong>22. Horoscope<strong></summary>
   
   ### OverView 
   
@@ -587,26 +653,10 @@ This is a full
   </div>
 </details>
 
-<details>
-  <summary><strong>24. Quotes<strong></summary>
-  
-  ### OverView 
-  
-  > This is an app that generates random quotes from the [Quotable API](https://github.com/lukePeavey/quotable). It is a lightweight API that you can query for free. 
 
-  [View it live from your browser.](http://bit.ly/aimanski-js27-quote) Deployed with Firebase through ReactJS<br>
-  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj27). <br>
-  [Watch Short Video Clip](https://www.youtube.com/watch?v=KBr8aUpVZn0) <br>
-
-  <div float="left">
-    <a href="https://www.youtube.com/watch?v=KBr8aUpVZn0">
-      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js27-quotes.gif" alt="screen shot">
-    </a>
-  </div>
-</details>
 
 <details>
-  <summary><strong>23. Drop Ball<strong></summary>
+  <summary><strong>21. Drop Ball<strong></summary>
   
   ### OverView 
   
@@ -624,7 +674,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>22. Bubbles<strong></summary>
+  <summary><strong>20. Bubbles<strong></summary>
   
   ### OverView 
   
@@ -643,7 +693,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>21. Bouncing Particles<strong></summary>
+  <summary><strong>19. Bouncing Particles<strong></summary>
   
   ### OverView 
   
@@ -664,7 +714,7 @@ This is a full
 
 
 <details>
-  <summary><strong>20. Color Picker<strong></summary>
+  <summary><strong>18. Color Picker<strong></summary>
   
   ### OverView 
   
@@ -686,7 +736,7 @@ This is a full
 
 
 <details>
-  <summary><strong>19. Body Mass Index Calculator<strong></summary>
+  <summary><strong>17. Body Mass Index Calculator<strong></summary>
   
   ### OverView 
   
@@ -705,7 +755,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>18. Word Guess<strong></summary>
+  <summary><strong>16. Word Guess<strong></summary>
   
   ### OverView 
   
@@ -724,7 +774,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>17. Speech Synthesis<strong></summary>
+  <summary><strong>15. Speech Synthesis<strong></summary>
   
   ### OverView 
   
@@ -743,7 +793,7 @@ This is a full
 </details>
 
 <details>
-  <summary><strong>16. Speech Recognition<strong></summary>
+  <summary><strong>14. Speech Recognition<strong></summary>
   
   ### OverView 
   
@@ -763,7 +813,7 @@ This is a full
 
 
 <details>
-  <summary><strong>15. Photo Booth<strong></summary>
+  <summary><strong>13. Photo Booth<strong></summary>
   
   ### OverView 
 
@@ -784,7 +834,7 @@ This is a full
 
 
 <details>
-  <summary><strong>14. Word Beater<strong></summary>
+  <summary><strong>12. Word Beater<strong></summary>
   
   ### OverView :sunglasses:
 
@@ -805,7 +855,7 @@ This is a full
 
 
 <details>
-  <summary><strong>13. Block Puzzle<strong></summary>
+  <summary><strong>11. Block Puzzle<strong></summary>
   
   ### OverView :sunglasses:
 
@@ -826,7 +876,7 @@ This is a full
 
 
 <details>
-  <summary><strong>12. Drag and Drop<strong></summary>
+  <summary><strong>10. Drag and Drop<strong></summary>
   
   ### OverView :sunglasses:
 
@@ -845,43 +895,10 @@ This is a full
 </details>
 
 
-<details>
-  <summary><strong>11. Seven Segment Display<strong></summary>
-  
-  ### OverView :sunglasses:
-
-> Seven Segment Display or SSD is a common display design for electronic devices. I build one like this to understand its core concepts and visualization structure and why it is called seven segment. I enjoyed and learned a lot in building this project. 
-
-[View it live from your browser.](http://bit.ly/aiman-js11-sevensegment) Deployed with Firebase through ReactJS<br>
-[Watch Short Video Clip](https://youtu.be/TyO07BxubSg) <br>
-[View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj11).
-
-<div float="left">
-  <a href="https://youtu.be/TyO07BxubSg">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js11-sevensegment.gif" alt="screen shot">
-  </a>
-</div>
-
-</details>
 
 
-<details>
-  <summary><strong>10. Pamodoro Timer<strong></summary>
-  
-  ### OverView :sunglasses:
 
-  > Pamodoro timer is one of the examples to exercise your javascript skills. So, for this challenge I build one that contains audio effects, start pause and stop button, functionality and audio controls.
 
-  [View it live from your browser.](http://bit.ly/aiman-js10-pamodoro) Deployed with Firebase through ReactJS<br>
-  [Watch Short Video Clip](https://youtu.be/iDkn6D-JbJo) <br>
-  [View project source code](https://github.com/Aimanski12/Javascript_Projects/tree/proj10).
-
-  <div float="left">
-    <a href="https://youtu.be/iDkn6D-JbJo">
-      <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js10-pamodoro.gif" alt="screen shot">
-    </a>
-  </div>
-</details>
 
 <details>
   <summary><strong>09. Nokia Snake Game<strong></summary>
