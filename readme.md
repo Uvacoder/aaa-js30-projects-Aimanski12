@@ -241,7 +241,6 @@ The projects are listed from the latest. :arrow_up:
   </div>
 </details>
 
-asdf
 
 <details>
   <summary><strong>43. Some Animation</strong></summary>
