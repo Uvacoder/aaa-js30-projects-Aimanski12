@@ -1,4 +1,4 @@
-## Giff Searcher
+## Twitter Searcher
 
 > This app allows the user to search hashtagged words from [Twitter](https://twitter.com). The app requires APIKeys and Access Token provided by Twitter. 
 

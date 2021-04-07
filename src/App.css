@@ -11,8 +11,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  /* color: white; */
-  
 }
 
 .flex{
@@ -20,9 +18,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
 }
-
 
 /* header */
 .header{
@@ -73,28 +69,15 @@
   color: #127cad
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 /* body */
 .body{
   height: 80vh;
   width: 700px;
-  
 }
+
 hr{
   height: 1px;
   margin: 0;
-  /* background: #c3ebff; */
   background: #e3e3e3;
 }
 
@@ -103,7 +86,6 @@ hr{
   float: left;
   height: 100%;
   text-align: left;
-  
 }
 
 .trends h5 {
@@ -120,16 +102,6 @@ hr{
 }
 
 
-
-
-
-
-
-
-
-
-
-
 .body .feeds {
   width: 80%;
   float: left;
@@ -139,7 +111,6 @@ hr{
   align-items: center;
   background: #e3e3e3;
   overflow: auto;
-  
 }
 
 /* Track */
@@ -236,7 +207,6 @@ hr{
 .tweet-hash {
   padding: 0 0 5px 12px;
   margin: 0 0 5px 0;
-  /* background: red; */
 }
 
 .tweet-hash p {
@@ -264,31 +234,9 @@ hr{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* retweet */
 .retweet {
   width: 100%;
-  /* height: 250px; */
 }
 
 .retweet-info-image {
@@ -296,36 +244,22 @@ hr{
   float: left;
 }
 
-
 .retweet-info-image img {
   margin: 10px 0 0 0px;
   width: 60px;
   border-radius: 50%;
 }
 
-
 .retweet-info-text {
   width: 390px;
   float: left;
 }
 
-
-
-
-
-
 /* footer */
 .footer{
   height: 5vh;
-  /* background: lightcoral; */
   width: 700px;
 }
-
-
-
-
-
-
 
 .spinner{
   height: 75vh;
@@ -360,7 +294,6 @@ hr{
   height: 9px;
   border-radius: 20%;
   background: #0c71a1;
-  /* background: #cccfa4; */
 }
 
 .lds-spinner div:nth-child(1) {

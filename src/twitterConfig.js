@@ -1,10 +1,10 @@
 
 
 export const APIKey = {
-  consumer_key: '4NWVCCCfGQhAPqTb6my6CKeDU',
-  consumer_secret: '0Irb6u7zqHJpK8cCRzzcjjqRywp0w2mlkWz1hXNCCFstHpStdK',
-  access_token: '870018684181458945-o5LYTfpRYfcQCb6yiojxh6GLArs7Soo',
-  access_token_secret: 'QbGbX7omLKMQhWtfPrlqhKW3bMHVYQ7N2y8HD08y0AEIy',
+  consumer_key: 'Enter your cosumer key here',
+  consumer_secret: 'Enter your consumer_secret here',
+  access_token: 'Enter your access_token here',
+  access_token_secret: 'Enter your access_token_secret here',
 }
 
 
@@ -55,7 +55,6 @@ const sort = (val, name) => {
     
     
 const reTweet = (r) => {
-  // console.log(r)
   let rTwt = {
     user: {
       name: r.user.name,

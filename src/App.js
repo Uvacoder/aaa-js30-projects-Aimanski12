@@ -25,16 +25,10 @@ componentDidMount (){
   this.tweet()
 }
 
-
-
 async tweet(e) {
-  
-  
   var Tweeter = require('twit')
   var T = new Tweeter(APIKey)
   var query = 'trending'
-  
-  
 
   let params = {
     q: e === undefined ? query : e === '' ? query : e,
@@ -75,9 +69,6 @@ async tweet(e) {
     let spinner = <div className="feed spin">
                     <Spinner />
                   </div>
-    // console.log(this.state.feeds)
-    // console.log(this.state.feeds)
-    // console.log(this.state.feeds.length)
 
     return(
       <div className="App-container">
@@ -103,9 +94,6 @@ async tweet(e) {
                     <Feed 
                       clickTags={(hash)=>this.searchedWords(hash)}
                       feeds={this.state.feeds}/>}
-                {/* <div className="feed spin">
-                  <Spinner />
-                </div> */}
             </div>
             {/* end of feeds */}
           </div>
@@ -115,6 +103,5 @@ async tweet(e) {
       </div>
   )}
 }
-
 
 export default App;
