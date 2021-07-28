@@ -6,6 +6,13 @@ Hello and welcome to the Github repo of my Web Development Projects. This houses
 
 The projects are listed from the latest. :arrow_up:
 
+<details>
+  <summary><strong>57. Mobile Application<strong></summary>
+  
+  ### OverView 
+  
+  > Coming Soon!
+</details>
 
 <details>
   <summary><strong>56. Book-Worm<strong></summary>
